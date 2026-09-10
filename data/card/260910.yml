@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.72.0"
   latestRelease: "v1.72.0"
   latestPrerelease: "v1.32.0-beta.1"
-  collectedAt: 2026-09-10T21:08:40Z
+  collectedAt: 2026-09-10T22:43:07Z
 timeline:
   created: 2019-10-03
   lastCommit: 2026-09-10
@@ -85,7 +85,7 @@ total:
   commit: 2901
 ---
 path: /home/runner/.x-repo/github.com/bufbuild/buf
-collectedAt: 2026-09-10T21:08:45Z
+collectedAt: 2026-09-10T22:43:13Z
 loc:
   Go:
     code: 210432
