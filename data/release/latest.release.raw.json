@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 52887954,
       "digest": "sha256:5176f23a6118b9978de1340c3e3301a4ed0d48e16a669510be44b4c355170d57",
-      "download_count": 50162,
+      "download_count": 51014,
       "created_at": "2026-07-17T20:09:44Z",
       "updated_at": "2026-07-17T20:09:46Z",
       "browser_download_url": "https://github.com/bufbuild/buf/releases/download/v1.72.0/buf-Darwin-arm64"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 36055610,
       "digest": "sha256:be040ae0ca381103dfda68a36738695c4db3e48de8e91412acdc3d991f39b91e",
-      "download_count": 204687,
+      "download_count": 208256,
       "created_at": "2026-07-17T20:09:44Z",
       "updated_at": "2026-07-17T20:09:46Z",
       "browser_download_url": "https://github.com/bufbuild/buf/releases/download/v1.72.0/buf-Darwin-arm64.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 55648960,
       "digest": "sha256:eb815a2708d4a43d31799049d5a2987ea81d0a9e98b53976d47bd1e78d154a8f",
-      "download_count": 1563,
+      "download_count": 1576,
       "created_at": "2026-07-17T20:09:44Z",
       "updated_at": "2026-07-17T20:09:46Z",
       "browser_download_url": "https://github.com/bufbuild/buf/releases/download/v1.72.0/buf-Darwin-x86_64"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 38788305,
       "digest": "sha256:8b87e66786b46b20e7f7e328c9e15f64f636041acfdbf93374873d9014a62d30",
-      "download_count": 424,
+      "download_count": 427,
       "created_at": "2026-07-17T20:09:44Z",
       "updated_at": "2026-07-17T20:09:46Z",
       "browser_download_url": "https://github.com/bufbuild/buf/releases/download/v1.72.0/buf-Darwin-x86_64.tar.gz"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 50987170,
       "digest": "sha256:bdbb275fb9624104ef4d8513d269cc410a153138646e67136cb3f8cc185be289",
-      "download_count": 295679,
+      "download_count": 305357,
       "created_at": "2026-07-17T20:09:46Z",
       "updated_at": "2026-07-17T20:09:48Z",
       "browser_download_url": "https://github.com/bufbuild/buf/releases/download/v1.72.0/buf-Linux-aarch64"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 34174095,
       "digest": "sha256:7641bd7e06a37a54cbb8c789f53465899def96196ab5c08057432f781a15d517",
-      "download_count": 23173,
+      "download_count": 24272,
       "created_at": "2026-07-17T20:09:47Z",
       "updated_at": "2026-07-17T20:09:48Z",
       "browser_download_url": "https://github.com/bufbuild/buf/releases/download/v1.72.0/buf-Linux-aarch64.tar.gz"
@@ -715,7 +715,7 @@
       "state": "uploaded",
       "size": 54050978,
       "digest": "sha256:8720830e26a733da55bb89bcd3cb44849c0965fc0c44fb5d691cccdc64dca5af",
-      "download_count": 3099854,
+      "download_count": 3164920,
       "created_at": "2026-07-17T20:09:50Z",
       "updated_at": "2026-07-17T20:09:52Z",
       "browser_download_url": "https://github.com/bufbuild/buf/releases/download/v1.72.0/buf-Linux-x86_64"
@@ -751,7 +751,7 @@
       "state": "uploaded",
       "size": 37851981,
       "digest": "sha256:a9c6186cf6fcf062b247345e1b7b12c26f580c1b2a4bbf4d3fe080abf85ceee8",
-      "download_count": 306184,
+      "download_count": 314476,
       "created_at": "2026-07-17T20:09:51Z",
       "updated_at": "2026-07-17T20:09:52Z",
       "browser_download_url": "https://github.com/bufbuild/buf/releases/download/v1.72.0/buf-Linux-x86_64.tar.gz"
@@ -931,7 +931,7 @@
       "state": "uploaded",
       "size": 51508736,
       "digest": "sha256:cc06910c1b69715b598fc8d1958538c86b656c05f6dd0a516dfa90c325dcbead",
-      "download_count": 184,
+      "download_count": 187,
       "created_at": "2026-07-17T20:09:52Z",
       "updated_at": "2026-07-17T20:09:54Z",
       "browser_download_url": "https://github.com/bufbuild/buf/releases/download/v1.72.0/buf-Windows-arm64.exe"
@@ -967,7 +967,7 @@
       "state": "uploaded",
       "size": 34440551,
       "digest": "sha256:79d7a18bddde96c248e5a606ba280708e71887a35939dee82cd49749740b77dc",
-      "download_count": 1193,
+      "download_count": 1196,
       "created_at": "2026-07-17T20:09:53Z",
       "updated_at": "2026-07-17T20:09:54Z",
       "browser_download_url": "https://github.com/bufbuild/buf/releases/download/v1.72.0/buf-Windows-arm64.zip"
@@ -1003,7 +1003,7 @@
       "state": "uploaded",
       "size": 55367680,
       "digest": "sha256:6e8f6d043e520bc81cae7b85d4cd6d93e57716a8a9842d5d18200191ee259cb5",
-      "download_count": 16119,
+      "download_count": 16299,
       "created_at": "2026-07-17T20:09:54Z",
       "updated_at": "2026-07-17T20:09:56Z",
       "browser_download_url": "https://github.com/bufbuild/buf/releases/download/v1.72.0/buf-Windows-x86_64.exe"
@@ -1039,7 +1039,7 @@
       "state": "uploaded",
       "size": 38744968,
       "digest": "sha256:0332d8d1bf062c95a0418081b7e574551032ee72064af05e304e3a1454f8cf11",
-      "download_count": 4907,
+      "download_count": 4992,
       "created_at": "2026-07-17T20:09:54Z",
       "updated_at": "2026-07-17T20:09:56Z",
       "browser_download_url": "https://github.com/bufbuild/buf/releases/download/v1.72.0/buf-Windows-x86_64.zip"
@@ -1075,7 +1075,7 @@
       "state": "uploaded",
       "size": 40630402,
       "digest": "sha256:7c6c0fbd20719527ab069e776e49b4ffb8a399e1744e8703e4ba40c2e1b0d01c",
-      "download_count": 963,
+      "download_count": 983,
       "created_at": "2026-07-17T20:09:54Z",
       "updated_at": "2026-07-17T20:09:56Z",
       "browser_download_url": "https://github.com/bufbuild/buf/releases/download/v1.72.0/protoc-gen-buf-breaking-Darwin-arm64"
@@ -1219,7 +1219,7 @@
       "state": "uploaded",
       "size": 39125154,
       "digest": "sha256:b356827be126bdadcbcef32607e93ec9aaeae0cce07bd24268b6b482540ac104",
-      "download_count": 2392,
+      "download_count": 2411,
       "created_at": "2026-07-17T20:09:56Z",
       "updated_at": "2026-07-17T20:09:58Z",
       "browser_download_url": "https://github.com/bufbuild/buf/releases/download/v1.72.0/protoc-gen-buf-breaking-Linux-aarch64"
@@ -1399,7 +1399,7 @@
       "state": "uploaded",
       "size": 41365666,
       "digest": "sha256:58cece373a057f6031bcbab1fdab1a774206b2ad15617fe61ae7bb1adda2b745",
-      "download_count": 17173,
+      "download_count": 17644,
       "created_at": "2026-07-17T20:09:58Z",
       "updated_at": "2026-07-17T20:09:59Z",
       "browser_download_url": "https://github.com/bufbuild/buf/releases/download/v1.72.0/protoc-gen-buf-breaking-Linux-x86_64"
@@ -1543,7 +1543,7 @@
       "state": "uploaded",
       "size": 42561024,
       "digest": "sha256:0f5982ac58302c59d137f0504bd98c0479d2ee49576faecf63c2fa02976d3de1",
-      "download_count": 440,
+      "download_count": 443,
       "created_at": "2026-07-17T20:09:59Z",
       "updated_at": "2026-07-17T20:10:01Z",
       "browser_download_url": "https://github.com/bufbuild/buf/releases/download/v1.72.0/protoc-gen-buf-breaking-Windows-x86_64.exe"
@@ -1579,7 +1579,7 @@
       "state": "uploaded",
       "size": 30284914,
       "digest": "sha256:d0d21d1919dcc60959dfdf0ca3d7858c9526d4fbbd4fbaf76d55dc5d70a72aa2",
-      "download_count": 960,
+      "download_count": 980,
       "created_at": "2026-07-17T20:09:59Z",
       "updated_at": "2026-07-17T20:10:01Z",
       "browser_download_url": "https://github.com/bufbuild/buf/releases/download/v1.72.0/protoc-gen-buf-lint-Darwin-arm64"
@@ -1723,7 +1723,7 @@
       "state": "uploaded",
       "size": 29294754,
       "digest": "sha256:c30b669685398e0b8816db7bd070560276bb5bf067d1bb9a30efc194545c4936",
-      "download_count": 2393,
+      "download_count": 2412,
       "created_at": "2026-07-17T20:10:01Z",
       "updated_at": "2026-07-17T20:10:03Z",
       "browser_download_url": "https://github.com/bufbuild/buf/releases/download/v1.72.0/protoc-gen-buf-lint-Linux-aarch64"
@@ -1903,7 +1903,7 @@
       "state": "uploaded",
       "size": 30810274,
       "digest": "sha256:6b50ee2ef0876c73ad430522ee98c7070e41eaabeba649256278bd8dc92571a1",
-      "download_count": 17189,
+      "download_count": 17660,
       "created_at": "2026-07-17T20:10:03Z",
       "updated_at": "2026-07-17T20:10:04Z",
       "browser_download_url": "https://github.com/bufbuild/buf/releases/download/v1.72.0/protoc-gen-buf-lint-Linux-x86_64"
@@ -2047,7 +2047,7 @@
       "state": "uploaded",
       "size": 31738368,
       "digest": "sha256:cd8d0a22916eca74fa69bfbb4a709e90425044c7e682ffabe01e628aa40f0b0b",
-      "download_count": 453,
+      "download_count": 456,
       "created_at": "2026-07-17T20:10:03Z",
       "updated_at": "2026-07-17T20:10:04Z",
       "browser_download_url": "https://github.com/bufbuild/buf/releases/download/v1.72.0/protoc-gen-buf-lint-Windows-x86_64.exe"
@@ -2083,7 +2083,7 @@
       "state": "uploaded",
       "size": 5312,
       "digest": "sha256:c6ddd4f90a2829ea04efbfbbbc44f8f5d4a0f2dda3bec5ec3fbb652c2d394c06",
-      "download_count": 348749,
+      "download_count": 356417,
       "created_at": "2026-07-17T20:10:04Z",
       "updated_at": "2026-07-17T20:10:05Z",
       "browser_download_url": "https://github.com/bufbuild/buf/releases/download/v1.72.0/sha256.txt"
@@ -2119,7 +2119,7 @@
       "state": "uploaded",
       "size": 302,
       "digest": "sha256:468ac733bfeef624cfa2fe45d85d0c6f0d4e3fa1238bc4c9ec7cb7b425ac48fd",
-      "download_count": 315588,
+      "download_count": 322471,
       "created_at": "2026-07-17T20:10:04Z",
       "updated_at": "2026-07-17T20:10:05Z",
       "browser_download_url": "https://github.com/bufbuild/buf/releases/download/v1.72.0/sha256.txt.minisig"

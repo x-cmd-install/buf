@@ -1,0 +1,442 @@
+- repo: alpine_edge
+  subrepo: testing
+  srcname: buf
+  binname: buf
+  visiblename: buf
+  version: 1.66.1
+  origversion: 1.66.1-r0
+  status: outdated
+  summary: CLI to work with Protocol Buffers
+  maintainers:
+    - folliekazetani@protonmail.com
+  licenses:
+    - Apache-2.0
+- repo: alpine_edge
+  subrepo: testing
+  srcname: buf
+  binname: buf-bash-completion
+  visiblename: buf-bash-completion
+  version: 1.66.1
+  origversion: 1.66.1-r0
+  status: outdated
+  summary: Bash completions for buf
+  maintainers:
+    - folliekazetani@protonmail.com
+  licenses:
+    - Apache-2.0
+- repo: alpine_edge
+  subrepo: testing
+  srcname: buf
+  binname: buf-fish-completion
+  visiblename: buf-fish-completion
+  version: 1.66.1
+  origversion: 1.66.1-r0
+  status: outdated
+  summary: Fish completions for buf
+  maintainers:
+    - folliekazetani@protonmail.com
+  licenses:
+    - Apache-2.0
+- repo: alpine_edge
+  subrepo: testing
+  srcname: buf
+  binname: buf-protoc-plugins
+  visiblename: buf-protoc-plugins
+  version: 1.66.1
+  origversion: 1.66.1-r0
+  status: outdated
+  summary: CLI to work with Protocol Buffers (protoc plugins)
+  maintainers:
+    - folliekazetani@protonmail.com
+  licenses:
+    - Apache-2.0
+- repo: alpine_edge
+  subrepo: testing
+  srcname: buf
+  binname: buf-zsh-completion
+  visiblename: buf-zsh-completion
+  version: 1.66.1
+  origversion: 1.66.1-r0
+  status: outdated
+  summary: Zsh completions for buf
+  maintainers:
+    - folliekazetani@protonmail.com
+  licenses:
+    - Apache-2.0
+- repo: alt_p11
+  srcname: buf
+  binnames:
+    - buf
+    - buf-debuginfo
+  visiblename: buf
+  version: 1.72.0
+  origversion: 1.72.0-alt1
+  status: newest
+  summary: The best way of working with Protocol Buffers.
+  maintainers:
+    - aris@altlinux.org
+  licenses:
+    - Apache-2.0
+  categories:
+    - Development/Other
+- repo: altsisyphus
+  srcname: buf
+  binnames:
+    - buf
+    - buf-debuginfo
+  visiblename: buf
+  version: 1.72.0
+  origversion: 1.72.0-alt1
+  status: newest
+  summary: The best way of working with Protocol Buffers.
+  maintainers:
+    - aris@altlinux.org
+  licenses:
+    - Apache-2.0
+  categories:
+    - Development/Other
+- repo: aosc
+  srcname: app-devel/buf
+  binname: buf
+  visiblename: buf
+  version: 1.69.0
+  origversion: 1.69.0-2
+  status: outdated
+  summary: Tool for working with Protocol Buffers
+  maintainers:
+    - fallback-mnt-aosc@repology
+  categories:
+    - devel
+- repo: arch
+  subrepo: extra
+  srcname: buf
+  binname: buf
+  visiblename: buf
+  version: 1.72.0
+  origversion: 1.72.0-1
+  status: newest
+  summary: A tool for working with Protocol Buffers
+  licenses:
+    - Apache-2.0
+- repo: aur
+  srcname: buf-bin
+  binname: buf-bin
+  visiblename: buf-bin
+  version: 1.72.0
+  origversion: 1.72.0-1
+  status: newest
+  summary: A new way of working with Protocol Buffers.
+  maintainers:
+    - doriable@aur
+    - buf@aur
+  licenses:
+    - Apache
+- repo: aur
+  srcname: buf-git
+  binname: buf-git
+  visiblename: buf-git
+  version: 1.9.0.r1491.g5401b58ca
+  origversion: 1.9.0.r1491.g5401b58ca-1
+  status: rolling
+  summary: A tool for working with Protocol Buffers
+  maintainers:
+    - ozraru@aur
+  licenses:
+    - Apache-2.0
+- repo: artix
+  subrepo: world
+  srcname: buf
+  binname: buf
+  visiblename: buf
+  version: 1.72.0
+  origversion: 1.72.0-1
+  status: newest
+  summary: A tool for working with Protocol Buffers
+  licenses:
+    - Apache-2.0
+- repo: freebsd
+  srcname: devel/buf
+  binname: buf
+  visiblename: devel/buf
+  version: 1.72.0
+  origversion: 1.72.0_3
+  status: newest
+  summary: CLI tool for working with Protocol Buffers
+  maintainers:
+    - yuri@freebsd.org
+  categories:
+    - devel
+- repo: homebrew
+  srcname: buf
+  visiblename: buf
+  version: 1.72.0
+  origversion: null
+  status: newest
+  summary: New way of working with Protocol Buffers
+- repo: homebrew
+  srcname: buf
+  visiblename: buf
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: New way of working with Protocol Buffers
+- repo: macports
+  srcname: devel/buf
+  binname: buf
+  visiblename: buf
+  version: 1.55.1
+  origversion: null
+  status: outdated
+  summary: Buf is a tool for working with Protocol Buffers.
+  maintainers:
+    - mikaoj@github
+  licenses:
+    - Apache-2
+  categories:
+    - devel
+- repo: manjaro_stable
+  subrepo: extra
+  srcname: buf
+  binname: buf
+  visiblename: buf
+  version: 1.72.0
+  origversion: 1.72.0-1
+  status: newest
+  summary: A tool for working with Protocol Buffers
+  licenses:
+    - Apache-2.0
+- repo: manjaro_testing
+  subrepo: extra
+  srcname: buf
+  binname: buf
+  visiblename: buf
+  version: 1.72.0
+  origversion: 1.72.0-1
+  status: newest
+  summary: A tool for working with Protocol Buffers
+  licenses:
+    - Apache-2.0
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: buf
+  binname: buf
+  visiblename: buf
+  version: 1.72.0
+  origversion: 1.72.0-1
+  status: newest
+  summary: A tool for working with Protocol Buffers
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_24_05
+  srcname: buf
+  visiblename: buf
+  version: 1.31.0
+  origversion: null
+  status: outdated
+  summary: Create consistent Protobuf APIs that preserve compatibility and comply with design best-practices
+  maintainers:
+    - hello+nixpkgs@j-k.io
+    - lrewega@c32.ca
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_24_11
+  srcname: buf
+  visiblename: buf
+  version: 1.47.2
+  origversion: null
+  status: outdated
+  summary: Create consistent Protobuf APIs that preserve compatibility and comply with design best-practices
+  maintainers:
+    - hello+nixpkgs@j-k.io
+    - lrewega@c32.ca
+    - wentworth@outlook.com
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_25_05
+  srcname: buf
+  visiblename: buf
+  version: 1.52.1
+  origversion: null
+  status: outdated
+  summary: Create consistent Protobuf APIs that preserve compatibility and comply with design best-practices
+  maintainers:
+    - hello+nixpkgs@j-k.io
+    - lrewega@c32.ca
+    - wentworth@outlook.com
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_25_11
+  srcname: buf
+  visiblename: buf
+  version: 1.59.0
+  origversion: null
+  status: outdated
+  summary: Create consistent Protobuf APIs that preserve compatibility and comply with design best-practices
+  maintainers:
+    - hello+nixpkgs@j-k.io
+    - lrewega@c32.ca
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_26_05
+  srcname: buf
+  visiblename: buf
+  version: 1.72.0
+  origversion: null
+  status: newest
+  summary: Create consistent Protobuf APIs that preserve compatibility and comply with design best-practices
+  maintainers:
+    - hythera@github
+    - hello+nixpkgs@j-k.io
+    - lrewega@c32.ca
+  licenses:
+    - Apache-2.0
+- repo: nix_unstable
+  srcname: buf
+  visiblename: buf
+  version: 1.72.0
+  origversion: null
+  status: newest
+  summary: Create consistent Protobuf APIs that preserve compatibility and comply with design best-practices
+  maintainers:
+    - hythera@github
+    - hello+nixpkgs@j-k.io
+    - lrewega@c32.ca
+  licenses:
+    - Apache-2.0
+- repo: openmandriva_6_0
+  subrepo: main/release
+  srcname: buf
+  binnames:
+    - lib64buf
+  visiblename: buf
+  version: 1.50.1
+  origversion: 1.50.1-2
+  status: outdated
+  summary: The best way of working with Protocol Buffers.
+  maintainers:
+    - azure.grade9592@eagereverest.com
+  licenses:
+    - Apache-2.0
+  categories:
+    - System/Libraries
+- repo: openmandriva_rolling
+  subrepo: main/release
+  srcname: buf
+  binnames:
+    - lib64buf
+  visiblename: buf
+  version: 1.50.1
+  origversion: 1.50.1-2
+  status: outdated
+  summary: The best way of working with Protocol Buffers.
+  maintainers:
+    - azure.grade9592@eagereverest.com
+  licenses:
+    - Apache-2.0
+  categories:
+    - System/Libraries
+- repo: openmandriva_cooker
+  subrepo: main/release
+  srcname: buf
+  binnames:
+    - lib64buf
+  visiblename: buf
+  version: 1.50.1
+  origversion: 1.50.1-2
+  status: outdated
+  summary: The best way of working with Protocol Buffers.
+  maintainers:
+    - azure.grade9592@eagereverest.com
+  licenses:
+    - Apache-2.0
+  categories:
+    - System/Libraries
+- repo: parabola
+  subrepo: extra
+  srcname: buf
+  binname: buf
+  visiblename: buf
+  version: 1.72.0
+  origversion: 1.72.0-1
+  status: newest
+  summary: A tool for working with Protocol Buffers
+  licenses:
+    - Apache-2.0
+- repo: pkgsrc_2026_1
+  srcname: devel/buf
+  binname: buf
+  visiblename: devel/buf
+  version: 1.45.0
+  origversion: 1.45.0nb7
+  status: outdated
+  summary: CLI tool for working with Protocol Buffers
+  maintainers:
+    - pkgsrc-users@netbsd.org
+  categories:
+    - devel
+- repo: pkgsrc_2026_2
+  srcname: devel/buf
+  binname: buf
+  visiblename: devel/buf
+  version: 1.70.0
+  origversion: 1.70.0nb2
+  status: outdated
+  summary: CLI tool for working with Protocol Buffers
+  maintainers:
+    - pkgsrc-users@netbsd.org
+  categories:
+    - devel
+- repo: pkgsrc_current
+  srcname: devel/buf
+  binname: buf
+  visiblename: devel/buf
+  version: 1.72.0
+  origversion: 1.72.0nb4
+  status: newest
+  summary: CLI tool for working with Protocol Buffers
+  maintainers:
+    - pkgsrc-users@netbsd.org
+  categories:
+    - devel
+- repo: scoop
+  subrepo: main
+  binname: buf
+  visiblename: buf
+  version: 1.72.0
+  origversion: null
+  status: newest
+  licenses:
+    - Apache-2.0
+- repo: slackbuilds
+  srcname: development/buf
+  visiblename: development/buf
+  version: 1.72.0
+  origversion: null
+  status: newest
+  maintainers:
+    - fsleg@t-rg.ws
+  categories:
+    - development
+- repo: termux
+  srcname: buf
+  binname: buf
+  visiblename: buf
+  version: 1.72.0
+  origversion: null
+  status: newest
+  summary: A new way of working with Protocol Buffers
+  maintainers:
+    - termux@github
+- repo: void_x86_64
+  subrepo: x86_64
+  srcname: buf
+  binname: buf
+  visiblename: buf
+  version: 1.71.0
+  origversion: 1.71.0_1
+  status: outdated
+  summary: Protobuf language server
+  maintainers:
+    - bnyro@tutanota.com
+  licenses:
+    - Apache-2.0
