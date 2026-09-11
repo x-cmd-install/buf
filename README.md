@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 18 | 1 | 1 | 3 | 18 |
-| last60d | 2026-07-12 | 1 | 33 | 1 | 3 | 4 | 33 |
-| 90d | 2026-06-12 | 2 | 43 | 1 | 8 | 5 | 43 |
-| last180d | 2026-03-14 | 10 | 161 | 1 | 19 | 10 | 160 |
-| 360d | 2025-09-15 | 23 | 415 | 1 | 47 | 20 | 408 |
-| last720d | 2024-09-20 | 43 | 773 | 1 | 148 | 34 | 778 |
+| 30d | 2026-08-12 | 0 | 18 | 1 | 1 | 3 | 18 |
+| last60d | 2026-07-13 | 1 | 32 | 1 | 3 | 4 | 33 |
+| 90d | 2026-06-13 | 2 | 43 | 1 | 8 | 5 | 43 |
+| last180d | 2026-03-15 | 10 | 161 | 1 | 19 | 10 | 160 |
+| 360d | 2025-09-16 | 23 | 408 | 1 | 47 | 20 | 408 |
+| last720d | 2024-09-21 | 43 | 773 | 1 | 148 | 34 | 776 |
 
 ## Release assets
 
@@ -149,4 +149,4 @@ Install metadata for buf lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T22:43:21Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T04:59:25Z._
