@@ -71,7 +71,7 @@
   visiblename: buf
   version: 1.72.0
   origversion: 1.72.0-alt1
-  status: newest
+  status: outdated
   summary: The best way of working with Protocol Buffers.
   maintainers:
     - aris@altlinux.org
@@ -87,7 +87,7 @@
   visiblename: buf
   version: 1.72.0
   origversion: 1.72.0-alt1
-  status: newest
+  status: outdated
   summary: The best way of working with Protocol Buffers.
   maintainers:
     - aris@altlinux.org
@@ -114,7 +114,7 @@
   visiblename: buf
   version: 1.72.0
   origversion: 1.72.0-1
-  status: newest
+  status: outdated
   summary: A tool for working with Protocol Buffers
   licenses:
     - Apache-2.0
@@ -122,8 +122,8 @@
   srcname: buf-bin
   binname: buf-bin
   visiblename: buf-bin
-  version: 1.72.0
-  origversion: 1.72.0-1
+  version: 1.73.0
+  origversion: 1.73.0-1
   status: newest
   summary: A new way of working with Protocol Buffers.
   maintainers:
@@ -150,7 +150,7 @@
   visiblename: buf
   version: 1.72.0
   origversion: 1.72.0-1
-  status: newest
+  status: outdated
   summary: A tool for working with Protocol Buffers
   licenses:
     - Apache-2.0
@@ -160,7 +160,7 @@
   visiblename: devel/buf
   version: 1.72.0
   origversion: 1.72.0_3
-  status: newest
+  status: outdated
   summary: CLI tool for working with Protocol Buffers
   maintainers:
     - yuri@freebsd.org
@@ -169,7 +169,7 @@
 - repo: homebrew
   srcname: buf
   visiblename: buf
-  version: 1.72.0
+  version: 1.73.0
   origversion: null
   status: newest
   summary: New way of working with Protocol Buffers
@@ -201,7 +201,7 @@
   visiblename: buf
   version: 1.72.0
   origversion: 1.72.0-1
-  status: newest
+  status: outdated
   summary: A tool for working with Protocol Buffers
   licenses:
     - Apache-2.0
@@ -212,7 +212,7 @@
   visiblename: buf
   version: 1.72.0
   origversion: 1.72.0-1
-  status: newest
+  status: outdated
   summary: A tool for working with Protocol Buffers
   licenses:
     - Apache-2.0
@@ -223,7 +223,7 @@
   visiblename: buf
   version: 1.72.0
   origversion: 1.72.0-1
-  status: newest
+  status: outdated
   summary: A tool for working with Protocol Buffers
   licenses:
     - Apache-2.0
@@ -282,7 +282,7 @@
   visiblename: buf
   version: 1.72.0
   origversion: null
-  status: newest
+  status: outdated
   summary: Create consistent Protobuf APIs that preserve compatibility and comply with design best-practices
   maintainers:
     - hythera@github
@@ -295,7 +295,7 @@
   visiblename: buf
   version: 1.72.0
   origversion: null
-  status: newest
+  status: outdated
   summary: Create consistent Protobuf APIs that preserve compatibility and comply with design best-practices
   maintainers:
     - hythera@github
@@ -358,7 +358,7 @@
   visiblename: buf
   version: 1.72.0
   origversion: 1.72.0-1
-  status: newest
+  status: outdated
   summary: A tool for working with Protocol Buffers
   licenses:
     - Apache-2.0
@@ -392,7 +392,7 @@
   visiblename: devel/buf
   version: 1.72.0
   origversion: 1.72.0nb4
-  status: newest
+  status: outdated
   summary: CLI tool for working with Protocol Buffers
   maintainers:
     - pkgsrc-users@netbsd.org
@@ -402,7 +402,7 @@
   subrepo: main
   binname: buf
   visiblename: buf
-  version: 1.72.0
+  version: 1.73.0
   origversion: null
   status: newest
   licenses:
@@ -412,7 +412,7 @@
   visiblename: development/buf
   version: 1.72.0
   origversion: null
-  status: newest
+  status: outdated
   maintainers:
     - fsleg@t-rg.ws
   categories:
@@ -423,7 +423,7 @@
   visiblename: buf
   version: 1.72.0
   origversion: null
-  status: newest
+  status: outdated
   summary: A new way of working with Protocol Buffers
   maintainers:
     - termux@github
