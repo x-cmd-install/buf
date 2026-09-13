@@ -1,3 +1,25 @@
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: buf
+  binname: buf
+  visiblename: buf
+  version: 1.72.0
+  origversion: 1.72.0-1
+  status: outdated
+  summary: A tool for working with Protocol Buffers
+  licenses:
+    - Apache-2.0
+- repo: manjaro_testing
+  subrepo: extra
+  srcname: buf
+  binname: buf
+  visiblename: buf
+  version: 1.72.0
+  origversion: 1.72.0-1
+  status: outdated
+  summary: A tool for working with Protocol Buffers
+  licenses:
+    - Apache-2.0
 - repo: alpine_edge
   subrepo: testing
   srcname: buf
@@ -112,9 +134,9 @@
   srcname: buf
   binname: buf
   visiblename: buf
-  version: 1.72.0
-  origversion: 1.72.0-1
-  status: outdated
+  version: 1.73.0
+  origversion: 1.73.0-1
+  status: newest
   summary: A tool for working with Protocol Buffers
   licenses:
     - Apache-2.0
@@ -195,28 +217,6 @@
   categories:
     - devel
 - repo: manjaro_stable
-  subrepo: extra
-  srcname: buf
-  binname: buf
-  visiblename: buf
-  version: 1.72.0
-  origversion: 1.72.0-1
-  status: outdated
-  summary: A tool for working with Protocol Buffers
-  licenses:
-    - Apache-2.0
-- repo: manjaro_testing
-  subrepo: extra
-  srcname: buf
-  binname: buf
-  visiblename: buf
-  version: 1.72.0
-  origversion: 1.72.0-1
-  status: outdated
-  summary: A tool for working with Protocol Buffers
-  licenses:
-    - Apache-2.0
-- repo: manjaro_unstable
   subrepo: extra
   srcname: buf
   binname: buf
@@ -410,9 +410,9 @@
 - repo: slackbuilds
   srcname: development/buf
   visiblename: development/buf
-  version: 1.72.0
+  version: 1.73.0
   origversion: null
-  status: outdated
+  status: newest
   maintainers:
     - fsleg@t-rg.ws
   categories:
@@ -421,9 +421,9 @@
   srcname: buf
   binname: buf
   visiblename: buf
-  version: 1.72.0
+  version: 1.73.0
   origversion: null
-  status: outdated
+  status: newest
   summary: A new way of working with Protocol Buffers
   maintainers:
     - termux@github
