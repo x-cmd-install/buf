@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 196 · **Merged PRs**: 2756 · **Open PRs**: 1 · **Closed issues**: 970 · **Open issues**: 59 · **Commits**: 2903
+- **Releases**: 196 · **Merged PRs**: 2756 · **Open PRs**: 5 · **Closed issues**: 970 · **Open issues**: 59 · **Commits**: 2903
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-12 | 1 | 20 | 1 | 2 | 2 | 20 |
-| last60d | 2026-07-13 | 2 | 34 | 1 | 4 | 3 | 35 |
-| 90d | 2026-06-13 | 3 | 45 | 1 | 9 | 4 | 45 |
-| last180d | 2026-03-15 | 11 | 163 | 1 | 20 | 9 | 162 |
-| 360d | 2025-09-16 | 24 | 410 | 1 | 48 | 19 | 410 |
-| last720d | 2024-09-21 | 44 | 775 | 1 | 149 | 33 | 778 |
+| 30d | 2026-08-14 | 1 | 20 | 5 | 2 | 2 | 20 |
+| last60d | 2026-07-15 | 2 | 34 | 5 | 4 | 3 | 35 |
+| 90d | 2026-06-15 | 3 | 43 | 5 | 9 | 4 | 45 |
+| last180d | 2026-03-17 | 11 | 158 | 5 | 19 | 9 | 162 |
+| 360d | 2025-09-18 | 22 | 410 | 5 | 48 | 18 | 410 |
+| last720d | 2024-09-23 | 44 | 774 | 5 | 149 | 33 | 778 |
 
 ## Release assets
 
@@ -130,11 +130,11 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **36** distros on [repology.org](https://repology.org/project/buf). **3** are ✅ on the latest upstream release, **31** are ⚠️ on an older version.
+Reported by **36** distros on [repology.org](https://repology.org/project/buf). **6** are ✅ on the latest upstream release, **28** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Arch | `1.72.0` | ⚠️ outdated |
+| Arch | `1.73.0` | ✅ latest |
 | Homebrew | `1.73.0` | ✅ latest |
 | Nix unstable | `1.72.0` | ⚠️ outdated |
 | Void | `1.71.0` | ⚠️ outdated |
@@ -149,4 +149,4 @@ Install metadata for buf lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T20:01:32Z._
+_Snapshot: `data/card/260913.yml` · 2026-09-13T05:08:27Z._
