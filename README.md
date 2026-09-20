@@ -4,7 +4,7 @@
 
 The best way of working with Protocol Buffers.
 
-![buf](https://repo.x-cmd.io/buf.svg)
+[![x-cmd/install — buf Code Quality Monitoring Repo Card](https://repo.x-cmd.io/buf.svg)](https://x-cmd.com/install/buf)
 
 ## Install
 
@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 11,440 · **Forks**: 367 · **Open issues**: 1,029 · **Contributors**: 96
+- **Stars**: 11,443 · **Forks**: 366 · **Open issues**: 1,029 · **Contributors**: 96
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 1 | 21 | 5 | 3 | 1 | 22 |
-| last60d | 2026-07-20 | 1 | 32 | 5 | 5 | 1 | 32 |
-| 90d | 2026-06-20 | 2 | 47 | 5 | 11 | 1 | 47 |
-| last180d | 2026-03-22 | 11 | 161 | 5 | 20 | 7 | 162 |
-| 360d | 2025-09-23 | 22 | 411 | 5 | 51 | 14 | 413 |
-| last720d | 2024-09-28 | 44 | 771 | 5 | 151 | 29 | 775 |
+| 30d | 2026-08-21 | 1 | 19 | 5 | 2 | 1 | 22 |
+| last60d | 2026-07-22 | 1 | 31 | 5 | 5 | 1 | 32 |
+| 90d | 2026-06-22 | 2 | 46 | 5 | 11 | 1 | 47 |
+| last180d | 2026-03-24 | 11 | 155 | 5 | 20 | 6 | 162 |
+| 360d | 2025-09-25 | 22 | 411 | 5 | 50 | 14 | 413 |
+| last720d | 2024-09-30 | 44 | 766 | 5 | 151 | 29 | 773 |
 
 ## Release assets
 
@@ -137,4 +137,4 @@ Install metadata for buf lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T05:08:54Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:15:44Z._
