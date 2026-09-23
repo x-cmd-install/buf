@@ -4,7 +4,7 @@
 
 The best way of working with Protocol Buffers.
 
-[![x-cmd/install — buf Code Quality Monitoring Repo Card](https://repo.x-cmd.io/buf.svg)](https://x-cmd.com/install/buf)
+[![x-cmd/install — buf Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/buf.svg)](https://x-cmd.com/install/buf)
 
 ## Install
 
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 11,446 · **Forks**: 367 · **Open issues**: 1,029 · **Contributors**: 96
+- **Stars**: 11,446 · **Forks**: 367 · **Open issues**: 1,030 · **Contributors**: 96
 
 ## Totals (cumulative)
 
-- **Releases**: 196 · **Merged PRs**: 2764 · **Open PRs**: 4 · **Closed issues**: 977 · **Open issues**: 52 · **Commits**: 2911
+- **Releases**: 196 · **Merged PRs**: 2764 · **Open PRs**: 5 · **Closed issues**: 977 · **Open issues**: 53 · **Commits**: 2911
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 1 | 20 | 4 | 2 | 1 | 18 |
-| last60d | 2026-07-24 | 1 | 33 | 4 | 5 | 1 | 31 |
-| 90d | 2026-06-24 | 2 | 48 | 4 | 10 | 1 | 48 |
-| last180d | 2026-03-26 | 11 | 155 | 4 | 20 | 5 | 162 |
-| 360d | 2025-09-27 | 22 | 412 | 4 | 51 | 13 | 414 |
-| last720d | 2024-10-02 | 43 | 766 | 4 | 148 | 28 | 770 |
+| 30d | 2026-08-24 | 1 | 19 | 5 | 2 | 2 | 18 |
+| last60d | 2026-07-25 | 1 | 33 | 5 | 5 | 2 | 31 |
+| 90d | 2026-06-25 | 2 | 48 | 5 | 10 | 2 | 48 |
+| last180d | 2026-03-27 | 11 | 155 | 5 | 20 | 6 | 162 |
+| 360d | 2025-09-28 | 22 | 412 | 5 | 51 | 14 | 414 |
+| last720d | 2024-10-03 | 43 | 763 | 5 | 147 | 29 | 768 |
 
 ## Release assets
 
@@ -137,4 +137,4 @@ Install metadata for buf lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T05:12:04Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T05:18:46Z._
