@@ -14,15 +14,15 @@ x install buf
 
 ## Code insight
 
-Total: **251,269** lines of code across **2697** files in the top 5 languages.
+Total: **251,594** lines of code across **2702** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 212,811 | 35,712 | 23,411 | 1051 |
-| Protobuf | 33,313 | 18,580 | 6,228 | 1167 |
-| Yaml | 3,099 | 19 | 9 | 441 |
-| Makefile | 1,079 | 188 | 263 | 23 |
-| Bash | 553 | 61 | 115 | 15 |
+| Go | 213,109 | 35,766 | 23,432 | 1052 |
+| Protobuf | 33,326 | 18,580 | 6,233 | 1169 |
+| Yaml | 3,111 | 19 | 9 | 443 |
+| Makefile | 1,080 | 188 | 263 | 23 |
+| Bash | 554 | 61 | 115 | 15 |
 
 ## OpenSSF Scorecard
 
@@ -43,7 +43,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v1.73.0` (2026-09-11)
-- **Last commit**: 2026-09-25
+- **Last commit**: 2026-09-28
 - **Assets in release**: 58
 
 ## Popularity
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 196 · **Merged PRs**: 2769 · **Open PRs**: 11 · **Closed issues**: 979 · **Open issues**: 52 · **Commits**: 2916
+- **Releases**: 196 · **Merged PRs**: 2774 · **Open PRs**: 5 · **Closed issues**: 980 · **Open issues**: 51 · **Commits**: 2921
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-29 | 1 | 21 | 11 | 1 | 2 | 19 |
-| last60d | 2026-07-30 | 1 | 36 | 11 | 4 | 2 | 35 |
-| 90d | 2026-06-30 | 2 | 50 | 11 | 7 | 2 | 49 |
-| last180d | 2026-04-01 | 11 | 152 | 11 | 21 | 4 | 157 |
-| 360d | 2025-10-03 | 22 | 417 | 11 | 52 | 14 | 414 |
-| last720d | 2024-10-08 | 42 | 750 | 11 | 147 | 28 | 756 |
+| 30d | 2026-08-30 | 1 | 26 | 5 | 1 | 2 | 24 |
+| last60d | 2026-07-31 | 1 | 41 | 5 | 4 | 2 | 40 |
+| 90d | 2026-07-01 | 2 | 54 | 5 | 7 | 2 | 54 |
+| last180d | 2026-04-02 | 10 | 157 | 5 | 21 | 4 | 162 |
+| 360d | 2025-10-04 | 22 | 422 | 5 | 52 | 14 | 419 |
+| last720d | 2024-10-09 | 41 | 754 | 5 | 147 | 28 | 758 |
 
 ## Release assets
 
@@ -137,4 +137,4 @@ Install metadata for buf lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260928.yml` · 2026-09-28T05:48:29Z._
+_Snapshot: `data/card/260929.yml` · 2026-09-29T05:57:51Z._
