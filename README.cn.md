@@ -14,13 +14,13 @@ x install buf
 
 ## 代码洞察
 
-合计: **254,506** 行代码（覆盖前 5 种语言、共 **2731** 个文件）。
+合计: **254,620** 行代码（覆盖前 5 种语言、共 **2734** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Go | 214,441 | 35,204 | 23,648 | 1054 |
-| Protobuf | 33,390 | 18,582 | 6,250 | 1182 |
-| Yaml | 3,124 | 19 | 9 | 445 |
+| Go | 214,539 | 35,233 | 23,658 | 1054 |
+| Protobuf | 33,400 | 18,582 | 6,255 | 1184 |
+| Yaml | 3,130 | 19 | 9 | 446 |
 | Json | 1,351 | 0 | 1 | 27 |
 | Makefile | 1,087 | 190 | 263 | 23 |
 
@@ -42,91 +42,91 @@ x install buf
 
 ## 发布
 
-- **最新版本**: `v1.73.0` (2026-09-11)
+- **最新版本**: `v1.74.0` (2026-10-14)
 - **最近提交**: 2026-10-14
 - **Release 含资产**: 58 个
 
 ## 流行度
 
-- **Star**: 11,487 · **Fork**: 370 · **开放 issue**: 1,034 · **贡献者**: 95
+- **Star**: 11,489 · **Fork**: 371 · **开放 issue**: 1,034 · **贡献者**: 95
 
 ## 累计统计
 
-- **发布数**: 196 · **已合并 PR**: 2790 · **开放 PR**: 1 · **已关闭 issue**: 983 · **开放 issue**: 51 · **提交数**: 2937
+- **发布数**: 197 · **已合并 PR**: 2794 · **开放 PR**: 2 · **已关闭 issue**: 984 · **开放 issue**: 50 · **提交数**: 2941
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-14 | 0 | 31 | 1 | 3 | 2 | 28 |
-| last60d | 2026-08-15 | 1 | 54 | 1 | 7 | 2 | 50 |
-| 90d | 2026-07-16 | 2 | 67 | 1 | 10 | 2 | 65 |
-| last180d | 2026-04-17 | 8 | 137 | 1 | 18 | 4 | 132 |
-| 360d | 2025-10-19 | 21 | 408 | 1 | 50 | 14 | 394 |
-| last720d | 2024-10-24 | 41 | 756 | 1 | 147 | 28 | 760 |
+| 30d | 2026-09-15 | 1 | 33 | 2 | 4 | 1 | 32 |
+| last60d | 2026-08-16 | 2 | 58 | 2 | 8 | 1 | 54 |
+| 90d | 2026-07-17 | 3 | 69 | 2 | 11 | 1 | 69 |
+| last180d | 2026-04-18 | 8 | 140 | 2 | 19 | 3 | 136 |
+| 360d | 2025-10-20 | 22 | 403 | 2 | 51 | 13 | 398 |
+| last720d | 2024-10-25 | 42 | 758 | 2 | 148 | 27 | 763 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [buf-Darwin-arm64](https://github.com/bufbuild/buf/releases/download/v1.73.0/buf-Darwin-arm64) | 50.8 MiB | `native/darwin/arm64` |
-| [buf-Darwin-arm64.tar.gz](https://github.com/bufbuild/buf/releases/download/v1.73.0/buf-Darwin-arm64.tar.gz) | 30.4 MiB | `native/darwin/arm64` |
-| [buf-Darwin-x86_64](https://github.com/bufbuild/buf/releases/download/v1.73.0/buf-Darwin-x86_64) | 53.6 MiB | `native/darwin/x64` |
-| [buf-Darwin-x86_64.tar.gz](https://github.com/bufbuild/buf/releases/download/v1.73.0/buf-Darwin-x86_64.tar.gz) | 32.8 MiB | `native/darwin/x64` |
-| [buf-FreeBSD-arm64](https://github.com/bufbuild/buf/releases/download/v1.73.0/buf-FreeBSD-arm64) | 48.9 MiB | `other` |
-| [buf-FreeBSD-arm64.tar.gz](https://github.com/bufbuild/buf/releases/download/v1.73.0/buf-FreeBSD-arm64.tar.gz) | 28.7 MiB | `native/linux/arm64` |
-| [buf-FreeBSD-x86_64](https://github.com/bufbuild/buf/releases/download/v1.73.0/buf-FreeBSD-x86_64) | 51.9 MiB | `other` |
-| [buf-FreeBSD-x86_64.tar.gz](https://github.com/bufbuild/buf/releases/download/v1.73.0/buf-FreeBSD-x86_64.tar.gz) | 31.9 MiB | `native/linux/x64` |
-| [buf-Linux-aarch64](https://github.com/bufbuild/buf/releases/download/v1.73.0/buf-Linux-aarch64) | 48.9 MiB | `native/linux/arm64` |
-| [buf-Linux-aarch64.tar.gz](https://github.com/bufbuild/buf/releases/download/v1.73.0/buf-Linux-aarch64.tar.gz) | 28.8 MiB | `native/linux/arm64` |
-| [buf-Linux-armv7](https://github.com/bufbuild/buf/releases/download/v1.73.0/buf-Linux-armv7) | 47.4 MiB | `native/linux/arm` |
-| [buf-Linux-armv7.tar.gz](https://github.com/bufbuild/buf/releases/download/v1.73.0/buf-Linux-armv7.tar.gz) | 29.1 MiB | `native/linux/arm` |
-| [buf-Linux-ppc64le](https://github.com/bufbuild/buf/releases/download/v1.73.0/buf-Linux-ppc64le) | 50.5 MiB | `other` |
-| [buf-Linux-ppc64le.tar.gz](https://github.com/bufbuild/buf/releases/download/v1.73.0/buf-Linux-ppc64le.tar.gz) | 28.0 MiB | `native/unknown` |
-| [buf-Linux-riscv64](https://github.com/bufbuild/buf/releases/download/v1.73.0/buf-Linux-riscv64) | 46.2 MiB | `native/linux/riscv64` |
-| [buf-Linux-riscv64.tar.gz](https://github.com/bufbuild/buf/releases/download/v1.73.0/buf-Linux-riscv64.tar.gz) | 28.9 MiB | `native/linux/riscv64` |
-| [buf-Linux-s390x](https://github.com/bufbuild/buf/releases/download/v1.73.0/buf-Linux-s390x) | 52.4 MiB | `other` |
-| [buf-Linux-s390x.tar.gz](https://github.com/bufbuild/buf/releases/download/v1.73.0/buf-Linux-s390x.tar.gz) | 30.4 MiB | `native/unknown` |
-| [buf-Linux-x86_64](https://github.com/bufbuild/buf/releases/download/v1.73.0/buf-Linux-x86_64) | 52.0 MiB | `native/linux/x64` |
-| [buf-Linux-x86_64.tar.gz](https://github.com/bufbuild/buf/releases/download/v1.73.0/buf-Linux-x86_64.tar.gz) | 32.0 MiB | `native/linux/x64` |
-| [buf-OpenBSD-arm64](https://github.com/bufbuild/buf/releases/download/v1.73.0/buf-OpenBSD-arm64) | 48.7 MiB | `other` |
-| [buf-OpenBSD-arm64.tar.gz](https://github.com/bufbuild/buf/releases/download/v1.73.0/buf-OpenBSD-arm64.tar.gz) | 28.6 MiB | `native/linux/arm64` |
-| [buf-OpenBSD-x86_64](https://github.com/bufbuild/buf/releases/download/v1.73.0/buf-OpenBSD-x86_64) | 51.7 MiB | `other` |
-| [buf-OpenBSD-x86_64.tar.gz](https://github.com/bufbuild/buf/releases/download/v1.73.0/buf-OpenBSD-x86_64.tar.gz) | 31.8 MiB | `native/linux/x64` |
-| [buf-Windows-arm64.exe](https://github.com/bufbuild/buf/releases/download/v1.73.0/buf-Windows-arm64.exe) | 49.5 MiB | `native/win/arm64` |
-| [buf-Windows-arm64.zip](https://github.com/bufbuild/buf/releases/download/v1.73.0/buf-Windows-arm64.zip) | 29.1 MiB | `native/win/arm64` |
-| [buf-Windows-x86_64.exe](https://github.com/bufbuild/buf/releases/download/v1.73.0/buf-Windows-x86_64.exe) | 53.3 MiB | `native/win/x64` |
-| [buf-Windows-x86_64.zip](https://github.com/bufbuild/buf/releases/download/v1.73.0/buf-Windows-x86_64.zip) | 32.7 MiB | `native/win/x64` |
-| [protoc-gen-buf-breaking-Darwin-arm64](https://github.com/bufbuild/buf/releases/download/v1.73.0/protoc-gen-buf-breaking-Darwin-arm64) | 28.2 MiB | `native/darwin/arm64` |
-| [protoc-gen-buf-breaking-Darwin-x86_64](https://github.com/bufbuild/buf/releases/download/v1.73.0/protoc-gen-buf-breaking-Darwin-x86_64) | 29.8 MiB | `native/darwin/x64` |
-| [protoc-gen-buf-breaking-FreeBSD-arm64](https://github.com/bufbuild/buf/releases/download/v1.73.0/protoc-gen-buf-breaking-FreeBSD-arm64) | 27.1 MiB | `other` |
-| [protoc-gen-buf-breaking-FreeBSD-x86_64](https://github.com/bufbuild/buf/releases/download/v1.73.0/protoc-gen-buf-breaking-FreeBSD-x86_64) | 28.9 MiB | `other` |
-| [protoc-gen-buf-breaking-Linux-aarch64](https://github.com/bufbuild/buf/releases/download/v1.73.0/protoc-gen-buf-breaking-Linux-aarch64) | 27.2 MiB | `native/linux/arm64` |
-| [protoc-gen-buf-breaking-Linux-armv7](https://github.com/bufbuild/buf/releases/download/v1.73.0/protoc-gen-buf-breaking-Linux-armv7) | 26.3 MiB | `native/linux/arm` |
-| [protoc-gen-buf-breaking-Linux-ppc64le](https://github.com/bufbuild/buf/releases/download/v1.73.0/protoc-gen-buf-breaking-Linux-ppc64le) | 27.6 MiB | `other` |
-| [protoc-gen-buf-breaking-Linux-riscv64](https://github.com/bufbuild/buf/releases/download/v1.73.0/protoc-gen-buf-breaking-Linux-riscv64) | 25.3 MiB | `native/linux/riscv64` |
-| [protoc-gen-buf-breaking-Linux-s390x](https://github.com/bufbuild/buf/releases/download/v1.73.0/protoc-gen-buf-breaking-Linux-s390x) | 28.6 MiB | `other` |
-| [protoc-gen-buf-breaking-Linux-x86_64](https://github.com/bufbuild/buf/releases/download/v1.73.0/protoc-gen-buf-breaking-Linux-x86_64) | 29.0 MiB | `native/linux/x64` |
-| [protoc-gen-buf-breaking-OpenBSD-arm64](https://github.com/bufbuild/buf/releases/download/v1.73.0/protoc-gen-buf-breaking-OpenBSD-arm64) | 27.1 MiB | `other` |
-| [protoc-gen-buf-breaking-OpenBSD-x86_64](https://github.com/bufbuild/buf/releases/download/v1.73.0/protoc-gen-buf-breaking-OpenBSD-x86_64) | 28.9 MiB | `other` |
-| [protoc-gen-buf-breaking-Windows-arm64.exe](https://github.com/bufbuild/buf/releases/download/v1.73.0/protoc-gen-buf-breaking-Windows-arm64.exe) | 27.7 MiB | `native/win/arm64` |
-| [protoc-gen-buf-breaking-Windows-x86_64.exe](https://github.com/bufbuild/buf/releases/download/v1.73.0/protoc-gen-buf-breaking-Windows-x86_64.exe) | 29.8 MiB | `native/win/x64` |
-| [protoc-gen-buf-lint-Darwin-arm64](https://github.com/bufbuild/buf/releases/download/v1.73.0/protoc-gen-buf-lint-Darwin-arm64) | 20.5 MiB | `native/darwin/arm64` |
-| [protoc-gen-buf-lint-Darwin-x86_64](https://github.com/bufbuild/buf/releases/download/v1.73.0/protoc-gen-buf-lint-Darwin-x86_64) | 21.5 MiB | `native/darwin/x64` |
-| [protoc-gen-buf-lint-FreeBSD-arm64](https://github.com/bufbuild/buf/releases/download/v1.73.0/protoc-gen-buf-lint-FreeBSD-arm64) | 19.8 MiB | `other` |
-| [protoc-gen-buf-lint-FreeBSD-x86_64](https://github.com/bufbuild/buf/releases/download/v1.73.0/protoc-gen-buf-lint-FreeBSD-x86_64) | 20.8 MiB | `other` |
-| [protoc-gen-buf-lint-Linux-aarch64](https://github.com/bufbuild/buf/releases/download/v1.73.0/protoc-gen-buf-lint-Linux-aarch64) | 19.9 MiB | `native/linux/arm64` |
-| [protoc-gen-buf-lint-Linux-armv7](https://github.com/bufbuild/buf/releases/download/v1.73.0/protoc-gen-buf-lint-Linux-armv7) | 18.9 MiB | `native/linux/arm` |
-| [protoc-gen-buf-lint-Linux-ppc64le](https://github.com/bufbuild/buf/releases/download/v1.73.0/protoc-gen-buf-lint-Linux-ppc64le) | 19.8 MiB | `other` |
-| [protoc-gen-buf-lint-Linux-riscv64](https://github.com/bufbuild/buf/releases/download/v1.73.0/protoc-gen-buf-lint-Linux-riscv64) | 18.2 MiB | `native/linux/riscv64` |
-| [protoc-gen-buf-lint-Linux-s390x](https://github.com/bufbuild/buf/releases/download/v1.73.0/protoc-gen-buf-lint-Linux-s390x) | 20.5 MiB | `other` |
-| [protoc-gen-buf-lint-Linux-x86_64](https://github.com/bufbuild/buf/releases/download/v1.73.0/protoc-gen-buf-lint-Linux-x86_64) | 20.9 MiB | `native/linux/x64` |
-| [protoc-gen-buf-lint-OpenBSD-arm64](https://github.com/bufbuild/buf/releases/download/v1.73.0/protoc-gen-buf-lint-OpenBSD-arm64) | 19.8 MiB | `other` |
-| [protoc-gen-buf-lint-OpenBSD-x86_64](https://github.com/bufbuild/buf/releases/download/v1.73.0/protoc-gen-buf-lint-OpenBSD-x86_64) | 20.8 MiB | `other` |
-| [protoc-gen-buf-lint-Windows-arm64.exe](https://github.com/bufbuild/buf/releases/download/v1.73.0/protoc-gen-buf-lint-Windows-arm64.exe) | 20.2 MiB | `native/win/arm64` |
-| [protoc-gen-buf-lint-Windows-x86_64.exe](https://github.com/bufbuild/buf/releases/download/v1.73.0/protoc-gen-buf-lint-Windows-x86_64.exe) | 21.6 MiB | `native/win/x64` |
-| [sha256.txt](https://github.com/bufbuild/buf/releases/download/v1.73.0/sha256.txt) | 5.2 KiB | `other` |
-| [sha256.txt.minisig](https://github.com/bufbuild/buf/releases/download/v1.73.0/sha256.txt.minisig) | 302 B | `other` |
+| [buf-Darwin-arm64](https://github.com/bufbuild/buf/releases/download/v1.74.0/buf-Darwin-arm64) | 44.7 MiB | `native/darwin/arm64` |
+| [buf-Darwin-arm64.tar.gz](https://github.com/bufbuild/buf/releases/download/v1.74.0/buf-Darwin-arm64.tar.gz) | 29.4 MiB | `native/darwin/arm64` |
+| [buf-Darwin-x86_64](https://github.com/bufbuild/buf/releases/download/v1.74.0/buf-Darwin-x86_64) | 47.1 MiB | `native/darwin/x64` |
+| [buf-Darwin-x86_64.tar.gz](https://github.com/bufbuild/buf/releases/download/v1.74.0/buf-Darwin-x86_64.tar.gz) | 31.8 MiB | `native/darwin/x64` |
+| [buf-FreeBSD-arm64](https://github.com/bufbuild/buf/releases/download/v1.74.0/buf-FreeBSD-arm64) | 43.0 MiB | `other` |
+| [buf-FreeBSD-arm64.tar.gz](https://github.com/bufbuild/buf/releases/download/v1.74.0/buf-FreeBSD-arm64.tar.gz) | 27.9 MiB | `native/linux/arm64` |
+| [buf-FreeBSD-x86_64](https://github.com/bufbuild/buf/releases/download/v1.74.0/buf-FreeBSD-x86_64) | 45.7 MiB | `other` |
+| [buf-FreeBSD-x86_64.tar.gz](https://github.com/bufbuild/buf/releases/download/v1.74.0/buf-FreeBSD-x86_64.tar.gz) | 31.0 MiB | `native/linux/x64` |
+| [buf-Linux-aarch64](https://github.com/bufbuild/buf/releases/download/v1.74.0/buf-Linux-aarch64) | 43.1 MiB | `native/linux/arm64` |
+| [buf-Linux-aarch64.tar.gz](https://github.com/bufbuild/buf/releases/download/v1.74.0/buf-Linux-aarch64.tar.gz) | 28.0 MiB | `native/linux/arm64` |
+| [buf-Linux-armv7](https://github.com/bufbuild/buf/releases/download/v1.74.0/buf-Linux-armv7) | 41.9 MiB | `native/linux/arm` |
+| [buf-Linux-armv7.tar.gz](https://github.com/bufbuild/buf/releases/download/v1.74.0/buf-Linux-armv7.tar.gz) | 28.2 MiB | `native/linux/arm` |
+| [buf-Linux-ppc64le](https://github.com/bufbuild/buf/releases/download/v1.74.0/buf-Linux-ppc64le) | 44.3 MiB | `other` |
+| [buf-Linux-ppc64le.tar.gz](https://github.com/bufbuild/buf/releases/download/v1.74.0/buf-Linux-ppc64le.tar.gz) | 27.2 MiB | `native/unknown` |
+| [buf-Linux-riscv64](https://github.com/bufbuild/buf/releases/download/v1.74.0/buf-Linux-riscv64) | 40.4 MiB | `native/linux/riscv64` |
+| [buf-Linux-riscv64.tar.gz](https://github.com/bufbuild/buf/releases/download/v1.74.0/buf-Linux-riscv64.tar.gz) | 28.0 MiB | `native/linux/riscv64` |
+| [buf-Linux-s390x](https://github.com/bufbuild/buf/releases/download/v1.74.0/buf-Linux-s390x) | 46.2 MiB | `other` |
+| [buf-Linux-s390x.tar.gz](https://github.com/bufbuild/buf/releases/download/v1.74.0/buf-Linux-s390x.tar.gz) | 29.5 MiB | `native/unknown` |
+| [buf-Linux-x86_64](https://github.com/bufbuild/buf/releases/download/v1.74.0/buf-Linux-x86_64) | 45.9 MiB | `native/linux/x64` |
+| [buf-Linux-x86_64.tar.gz](https://github.com/bufbuild/buf/releases/download/v1.74.0/buf-Linux-x86_64.tar.gz) | 31.1 MiB | `native/linux/x64` |
+| [buf-OpenBSD-arm64](https://github.com/bufbuild/buf/releases/download/v1.74.0/buf-OpenBSD-arm64) | 42.9 MiB | `other` |
+| [buf-OpenBSD-arm64.tar.gz](https://github.com/bufbuild/buf/releases/download/v1.74.0/buf-OpenBSD-arm64.tar.gz) | 27.8 MiB | `native/linux/arm64` |
+| [buf-OpenBSD-x86_64](https://github.com/bufbuild/buf/releases/download/v1.74.0/buf-OpenBSD-x86_64) | 45.6 MiB | `other` |
+| [buf-OpenBSD-x86_64.tar.gz](https://github.com/bufbuild/buf/releases/download/v1.74.0/buf-OpenBSD-x86_64.tar.gz) | 30.9 MiB | `native/linux/x64` |
+| [buf-Windows-arm64.exe](https://github.com/bufbuild/buf/releases/download/v1.74.0/buf-Windows-arm64.exe) | 43.6 MiB | `native/win/arm64` |
+| [buf-Windows-arm64.zip](https://github.com/bufbuild/buf/releases/download/v1.74.0/buf-Windows-arm64.zip) | 28.2 MiB | `native/win/arm64` |
+| [buf-Windows-x86_64.exe](https://github.com/bufbuild/buf/releases/download/v1.74.0/buf-Windows-x86_64.exe) | 47.0 MiB | `native/win/x64` |
+| [buf-Windows-x86_64.zip](https://github.com/bufbuild/buf/releases/download/v1.74.0/buf-Windows-x86_64.zip) | 31.8 MiB | `native/win/x64` |
+| [protoc-gen-buf-breaking-Darwin-arm64](https://github.com/bufbuild/buf/releases/download/v1.74.0/protoc-gen-buf-breaking-Darwin-arm64) | 27.5 MiB | `native/darwin/arm64` |
+| [protoc-gen-buf-breaking-Darwin-x86_64](https://github.com/bufbuild/buf/releases/download/v1.74.0/protoc-gen-buf-breaking-Darwin-x86_64) | 29.0 MiB | `native/darwin/x64` |
+| [protoc-gen-buf-breaking-FreeBSD-arm64](https://github.com/bufbuild/buf/releases/download/v1.74.0/protoc-gen-buf-breaking-FreeBSD-arm64) | 26.4 MiB | `other` |
+| [protoc-gen-buf-breaking-FreeBSD-x86_64](https://github.com/bufbuild/buf/releases/download/v1.74.0/protoc-gen-buf-breaking-FreeBSD-x86_64) | 28.1 MiB | `other` |
+| [protoc-gen-buf-breaking-Linux-aarch64](https://github.com/bufbuild/buf/releases/download/v1.74.0/protoc-gen-buf-breaking-Linux-aarch64) | 26.4 MiB | `native/linux/arm64` |
+| [protoc-gen-buf-breaking-Linux-armv7](https://github.com/bufbuild/buf/releases/download/v1.74.0/protoc-gen-buf-breaking-Linux-armv7) | 25.6 MiB | `native/linux/arm` |
+| [protoc-gen-buf-breaking-Linux-ppc64le](https://github.com/bufbuild/buf/releases/download/v1.74.0/protoc-gen-buf-breaking-Linux-ppc64le) | 26.8 MiB | `other` |
+| [protoc-gen-buf-breaking-Linux-riscv64](https://github.com/bufbuild/buf/releases/download/v1.74.0/protoc-gen-buf-breaking-Linux-riscv64) | 24.5 MiB | `native/linux/riscv64` |
+| [protoc-gen-buf-breaking-Linux-s390x](https://github.com/bufbuild/buf/releases/download/v1.74.0/protoc-gen-buf-breaking-Linux-s390x) | 27.8 MiB | `other` |
+| [protoc-gen-buf-breaking-Linux-x86_64](https://github.com/bufbuild/buf/releases/download/v1.74.0/protoc-gen-buf-breaking-Linux-x86_64) | 28.1 MiB | `native/linux/x64` |
+| [protoc-gen-buf-breaking-OpenBSD-arm64](https://github.com/bufbuild/buf/releases/download/v1.74.0/protoc-gen-buf-breaking-OpenBSD-arm64) | 26.4 MiB | `other` |
+| [protoc-gen-buf-breaking-OpenBSD-x86_64](https://github.com/bufbuild/buf/releases/download/v1.74.0/protoc-gen-buf-breaking-OpenBSD-x86_64) | 28.1 MiB | `other` |
+| [protoc-gen-buf-breaking-Windows-arm64.exe](https://github.com/bufbuild/buf/releases/download/v1.74.0/protoc-gen-buf-breaking-Windows-arm64.exe) | 26.9 MiB | `native/win/arm64` |
+| [protoc-gen-buf-breaking-Windows-x86_64.exe](https://github.com/bufbuild/buf/releases/download/v1.74.0/protoc-gen-buf-breaking-Windows-x86_64.exe) | 29.0 MiB | `native/win/x64` |
+| [protoc-gen-buf-lint-Darwin-arm64](https://github.com/bufbuild/buf/releases/download/v1.74.0/protoc-gen-buf-lint-Darwin-arm64) | 20.7 MiB | `native/darwin/arm64` |
+| [protoc-gen-buf-lint-Darwin-x86_64](https://github.com/bufbuild/buf/releases/download/v1.74.0/protoc-gen-buf-lint-Darwin-x86_64) | 21.6 MiB | `native/darwin/x64` |
+| [protoc-gen-buf-lint-FreeBSD-arm64](https://github.com/bufbuild/buf/releases/download/v1.74.0/protoc-gen-buf-lint-FreeBSD-arm64) | 19.9 MiB | `other` |
+| [protoc-gen-buf-lint-FreeBSD-x86_64](https://github.com/bufbuild/buf/releases/download/v1.74.0/protoc-gen-buf-lint-FreeBSD-x86_64) | 20.9 MiB | `other` |
+| [protoc-gen-buf-lint-Linux-aarch64](https://github.com/bufbuild/buf/releases/download/v1.74.0/protoc-gen-buf-lint-Linux-aarch64) | 19.9 MiB | `native/linux/arm64` |
+| [protoc-gen-buf-lint-Linux-armv7](https://github.com/bufbuild/buf/releases/download/v1.74.0/protoc-gen-buf-lint-Linux-armv7) | 19.1 MiB | `native/linux/arm` |
+| [protoc-gen-buf-lint-Linux-ppc64le](https://github.com/bufbuild/buf/releases/download/v1.74.0/protoc-gen-buf-lint-Linux-ppc64le) | 19.9 MiB | `other` |
+| [protoc-gen-buf-lint-Linux-riscv64](https://github.com/bufbuild/buf/releases/download/v1.74.0/protoc-gen-buf-lint-Linux-riscv64) | 18.2 MiB | `native/linux/riscv64` |
+| [protoc-gen-buf-lint-Linux-s390x](https://github.com/bufbuild/buf/releases/download/v1.74.0/protoc-gen-buf-lint-Linux-s390x) | 20.6 MiB | `other` |
+| [protoc-gen-buf-lint-Linux-x86_64](https://github.com/bufbuild/buf/releases/download/v1.74.0/protoc-gen-buf-lint-Linux-x86_64) | 21.0 MiB | `native/linux/x64` |
+| [protoc-gen-buf-lint-OpenBSD-arm64](https://github.com/bufbuild/buf/releases/download/v1.74.0/protoc-gen-buf-lint-OpenBSD-arm64) | 19.8 MiB | `other` |
+| [protoc-gen-buf-lint-OpenBSD-x86_64](https://github.com/bufbuild/buf/releases/download/v1.74.0/protoc-gen-buf-lint-OpenBSD-x86_64) | 20.9 MiB | `other` |
+| [protoc-gen-buf-lint-Windows-arm64.exe](https://github.com/bufbuild/buf/releases/download/v1.74.0/protoc-gen-buf-lint-Windows-arm64.exe) | 20.3 MiB | `native/win/arm64` |
+| [protoc-gen-buf-lint-Windows-x86_64.exe](https://github.com/bufbuild/buf/releases/download/v1.74.0/protoc-gen-buf-lint-Windows-x86_64.exe) | 21.7 MiB | `native/win/x64` |
+| [sha256.txt](https://github.com/bufbuild/buf/releases/download/v1.74.0/sha256.txt) | 5.2 KiB | `other` |
+| [sha256.txt.minisig](https://github.com/bufbuild/buf/releases/download/v1.74.0/sha256.txt.minisig) | 302 B | `other` |
 
 ## 改进这些数据
 
@@ -137,4 +137,4 @@ buf 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261014.yml` · 2026-10-14T05:19:51Z._
+_数据快照: `data/card/261015.yml` · 2026-10-15T04:54:15Z._
