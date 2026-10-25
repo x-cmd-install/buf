@@ -1,3 +1,25 @@
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: buf
+  binname: buf
+  visiblename: buf
+  version: 1.75.0
+  origversion: 1.75.0-1
+  status: newest
+  summary: A tool for working with Protocol Buffers
+  licenses:
+    - Apache-2.0
+- repo: manjaro_stable
+  subrepo: extra
+  srcname: buf
+  binname: buf
+  visiblename: buf
+  version: 1.72.0
+  origversion: 1.72.0-1
+  status: outdated
+  summary: A tool for working with Protocol Buffers
+  licenses:
+    - Apache-2.0
 - repo: alpine_edge
   subrepo: testing
   srcname: buf
@@ -22,6 +44,17 @@
   summary: Bash completions for buf
   maintainers:
     - folliekazetani@protonmail.com
+  licenses:
+    - Apache-2.0
+- repo: manjaro_testing
+  subrepo: extra
+  srcname: buf
+  binname: buf
+  visiblename: buf
+  version: 1.73.0
+  origversion: 1.73.0-1
+  status: outdated
+  summary: A tool for working with Protocol Buffers
   licenses:
     - Apache-2.0
 - repo: alpine_edge
@@ -194,39 +227,6 @@
     - Apache-2
   categories:
     - devel
-- repo: manjaro_stable
-  subrepo: extra
-  srcname: buf
-  binname: buf
-  visiblename: buf
-  version: 1.72.0
-  origversion: 1.72.0-1
-  status: outdated
-  summary: A tool for working with Protocol Buffers
-  licenses:
-    - Apache-2.0
-- repo: manjaro_testing
-  subrepo: extra
-  srcname: buf
-  binname: buf
-  visiblename: buf
-  version: 1.73.0
-  origversion: 1.73.0-1
-  status: outdated
-  summary: A tool for working with Protocol Buffers
-  licenses:
-    - Apache-2.0
-- repo: manjaro_unstable
-  subrepo: extra
-  srcname: buf
-  binname: buf
-  visiblename: buf
-  version: 1.75.0
-  origversion: 1.75.0-1
-  status: newest
-  summary: A tool for working with Protocol Buffers
-  licenses:
-    - Apache-2.0
 - repo: nix_stable_24_05
   srcname: buf
   visiblename: buf
@@ -356,9 +356,9 @@
   srcname: buf
   binname: buf
   visiblename: buf
-  version: 1.74.0
-  origversion: 1.74.0-1
-  status: outdated
+  version: 1.75.0
+  origversion: 1.75.0-1
+  status: newest
   summary: A tool for working with Protocol Buffers
   licenses:
     - Apache-2.0
@@ -390,9 +390,9 @@
   srcname: devel/buf
   binname: buf
   visiblename: devel/buf
-  version: 1.74.0
-  origversion: 1.74.0nb1
-  status: outdated
+  version: 1.75.0
+  origversion: null
+  status: newest
   summary: CLI tool for working with Protocol Buffers
   maintainers:
     - pkgsrc-users@netbsd.org
