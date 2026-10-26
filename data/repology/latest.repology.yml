@@ -1,25 +1,3 @@
-- repo: manjaro_unstable
-  subrepo: extra
-  srcname: buf
-  binname: buf
-  visiblename: buf
-  version: 1.75.0
-  origversion: 1.75.0-1
-  status: newest
-  summary: A tool for working with Protocol Buffers
-  licenses:
-    - Apache-2.0
-- repo: manjaro_stable
-  subrepo: extra
-  srcname: buf
-  binname: buf
-  visiblename: buf
-  version: 1.72.0
-  origversion: 1.72.0-1
-  status: outdated
-  summary: A tool for working with Protocol Buffers
-  licenses:
-    - Apache-2.0
 - repo: alpine_edge
   subrepo: testing
   srcname: buf
@@ -44,17 +22,6 @@
   summary: Bash completions for buf
   maintainers:
     - folliekazetani@protonmail.com
-  licenses:
-    - Apache-2.0
-- repo: manjaro_testing
-  subrepo: extra
-  srcname: buf
-  binname: buf
-  visiblename: buf
-  version: 1.73.0
-  origversion: 1.73.0-1
-  status: outdated
-  summary: A tool for working with Protocol Buffers
   licenses:
     - Apache-2.0
 - repo: alpine_edge
@@ -112,6 +79,18 @@
     - Apache-2.0
   categories:
     - Development/Other
+- repo: nix_stable_25_11
+  srcname: buf
+  visiblename: buf
+  version: 1.59.0
+  origversion: null
+  status: outdated
+  summary: Create consistent Protobuf APIs that preserve compatibility and comply with design best-practices
+  maintainers:
+    - hello+nixpkgs@j-k.io
+    - lrewega@c32.ca
+  licenses:
+    - Apache-2.0
 - repo: altsisyphus
   srcname: buf
   binnames:
@@ -227,6 +206,39 @@
     - Apache-2
   categories:
     - devel
+- repo: manjaro_stable
+  subrepo: extra
+  srcname: buf
+  binname: buf
+  visiblename: buf
+  version: 1.72.0
+  origversion: 1.72.0-1
+  status: outdated
+  summary: A tool for working with Protocol Buffers
+  licenses:
+    - Apache-2.0
+- repo: manjaro_testing
+  subrepo: extra
+  srcname: buf
+  binname: buf
+  visiblename: buf
+  version: 1.73.0
+  origversion: 1.73.0-1
+  status: outdated
+  summary: A tool for working with Protocol Buffers
+  licenses:
+    - Apache-2.0
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: buf
+  binname: buf
+  visiblename: buf
+  version: 1.75.0
+  origversion: 1.75.0-1
+  status: newest
+  summary: A tool for working with Protocol Buffers
+  licenses:
+    - Apache-2.0
 - repo: nix_stable_24_05
   srcname: buf
   visiblename: buf
@@ -263,18 +275,6 @@
     - hello+nixpkgs@j-k.io
     - lrewega@c32.ca
     - wentworth@outlook.com
-  licenses:
-    - Apache-2.0
-- repo: nix_stable_25_11
-  srcname: buf
-  visiblename: buf
-  version: 1.59.0
-  origversion: null
-  status: outdated
-  summary: Create consistent Protobuf APIs that preserve compatibility and comply with design best-practices
-  maintainers:
-    - hello+nixpkgs@j-k.io
-    - lrewega@c32.ca
   licenses:
     - Apache-2.0
 - repo: nix_stable_26_05
@@ -379,7 +379,7 @@
   binname: buf
   visiblename: devel/buf
   version: 1.72.0
-  origversion: 1.72.0nb4
+  origversion: 1.72.0nb5
   status: outdated
   summary: CLI tool for working with Protocol Buffers
   maintainers:
