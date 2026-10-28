@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v1.75.0` (2026-10-22)
-- **Last commit**: 2026-10-23
+- **Last commit**: 2026-10-27
 - **Assets in release**: 58
 
 ## Popularity
 
-- **Stars**: 11,506 · **Forks**: 372 · **Open issues**: 1,036 · **Contributors**: 96
+- **Stars**: 11,508 · **Forks**: 372 · **Open issues**: 1,036 · **Contributors**: 96
 
 ## Totals (cumulative)
 
-- **Releases**: 198 · **Merged PRs**: 2809 · **Open PRs**: 8 · **Closed issues**: 985 · **Open issues**: 51 · **Commits**: 2956
+- **Releases**: 198 · **Merged PRs**: 2810 · **Open PRs**: 7 · **Closed issues**: 985 · **Open issues**: 51 · **Commits**: 2957
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-27 | 2 | 33 | 8 | 3 | 2 | 34 |
-| last60d | 2026-08-28 | 3 | 61 | 8 | 6 | 2 | 59 |
-| 90d | 2026-07-29 | 3 | 76 | 8 | 9 | 2 | 76 |
-| last180d | 2026-04-30 | 6 | 129 | 8 | 20 | 3 | 128 |
-| 360d | 2025-11-01 | 22 | 376 | 8 | 50 | 14 | 371 |
-| last720d | 2024-11-06 | 42 | 754 | 8 | 143 | 27 | 762 |
+| 30d | 2026-09-28 | 2 | 32 | 7 | 3 | 2 | 35 |
+| last60d | 2026-08-29 | 3 | 62 | 7 | 6 | 2 | 60 |
+| 90d | 2026-07-30 | 3 | 77 | 7 | 9 | 2 | 77 |
+| last180d | 2026-05-01 | 6 | 130 | 7 | 20 | 3 | 129 |
+| 360d | 2025-11-02 | 22 | 377 | 7 | 50 | 13 | 372 |
+| last720d | 2024-11-07 | 42 | 754 | 7 | 142 | 27 | 762 |
 
 ## Release assets
 
@@ -130,7 +130,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **36** distros on [repology.org](https://repology.org/project/buf). **11** are ✅ on the latest upstream release, **23** are ⚠️ on an older version.
+Reported by **36** distros on [repology.org](https://repology.org/project/buf). **12** are ✅ on the latest upstream release, **22** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -149,4 +149,4 @@ Install metadata for buf lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261027.yml` · 2026-10-27T05:18:46Z._
+_Snapshot: `data/card/261028.yml` · 2026-10-28T05:54:07Z._
