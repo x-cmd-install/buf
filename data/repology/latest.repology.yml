@@ -79,18 +79,6 @@
     - Apache-2.0
   categories:
     - Development/Other
-- repo: nix_stable_25_11
-  srcname: buf
-  visiblename: buf
-  version: 1.59.0
-  origversion: null
-  status: outdated
-  summary: Create consistent Protobuf APIs that preserve compatibility and comply with design best-practices
-  maintainers:
-    - hello+nixpkgs@j-k.io
-    - lrewega@c32.ca
-  licenses:
-    - Apache-2.0
 - repo: altsisyphus
   srcname: buf
   binnames:
@@ -196,9 +184,9 @@
   srcname: devel/buf
   binname: buf
   visiblename: buf
-  version: 1.55.1
+  version: 1.75.0
   origversion: null
-  status: outdated
+  status: newest
   summary: Buf is a tool for working with Protocol Buffers.
   maintainers:
     - mikaoj@github
@@ -275,6 +263,18 @@
     - hello+nixpkgs@j-k.io
     - lrewega@c32.ca
     - wentworth@outlook.com
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_25_11
+  srcname: buf
+  visiblename: buf
+  version: 1.59.0
+  origversion: null
+  status: outdated
+  summary: Create consistent Protobuf APIs that preserve compatibility and comply with design best-practices
+  maintainers:
+    - hello+nixpkgs@j-k.io
+    - lrewega@c32.ca
   licenses:
     - Apache-2.0
 - repo: nix_stable_26_05
