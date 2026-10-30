@@ -1,3 +1,36 @@
+- repo: manjaro_testing
+  subrepo: extra
+  srcname: buf
+  binname: buf
+  visiblename: buf
+  version: 1.73.0
+  origversion: 1.73.0-1
+  status: outdated
+  summary: A tool for working with Protocol Buffers
+  licenses:
+    - Apache-2.0
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: buf
+  binname: buf
+  visiblename: buf
+  version: 1.75.0
+  origversion: 1.75.0-1
+  status: newest
+  summary: A tool for working with Protocol Buffers
+  licenses:
+    - Apache-2.0
+- repo: artix
+  subrepo: world
+  srcname: buf
+  binname: buf
+  visiblename: buf
+  version: 1.75.0
+  origversion: 1.75.0-1
+  status: newest
+  summary: A tool for working with Protocol Buffers
+  licenses:
+    - Apache-2.0
 - repo: alpine_edge
   subrepo: testing
   srcname: buf
@@ -143,17 +176,6 @@
     - ozraru@aur
   licenses:
     - Apache-2.0
-- repo: artix
-  subrepo: world
-  srcname: buf
-  binname: buf
-  visiblename: buf
-  version: 1.73.0
-  origversion: 1.73.0-1
-  status: outdated
-  summary: A tool for working with Protocol Buffers
-  licenses:
-    - Apache-2.0
 - repo: freebsd
   srcname: devel/buf
   binname: buf
@@ -202,28 +224,6 @@
   version: 1.72.0
   origversion: 1.72.0-1
   status: outdated
-  summary: A tool for working with Protocol Buffers
-  licenses:
-    - Apache-2.0
-- repo: manjaro_testing
-  subrepo: extra
-  srcname: buf
-  binname: buf
-  visiblename: buf
-  version: 1.73.0
-  origversion: 1.73.0-1
-  status: outdated
-  summary: A tool for working with Protocol Buffers
-  licenses:
-    - Apache-2.0
-- repo: manjaro_unstable
-  subrepo: extra
-  srcname: buf
-  binname: buf
-  visiblename: buf
-  version: 1.75.0
-  origversion: 1.75.0-1
-  status: newest
   summary: A tool for working with Protocol Buffers
   licenses:
     - Apache-2.0
