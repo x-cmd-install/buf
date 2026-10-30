@@ -14,15 +14,15 @@ x install buf
 
 ## Code insight
 
-Total: **255,577** lines of code across **2757** files in the top 5 languages.
+Total: **255,589** lines of code across **2757** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 215,334 | 35,341 | 23,702 | 1056 |
+| Go | 215,344 | 35,350 | 23,702 | 1056 |
 | Protobuf | 33,549 | 18,589 | 6,311 | 1202 |
 | Yaml | 3,141 | 19 | 9 | 449 |
 | Json | 1,351 | 0 | 1 | 27 |
-| Makefile | 1,087 | 190 | 263 | 23 |
+| Makefile | 1,089 | 191 | 263 | 23 |
 
 ## OpenSSF Scorecard
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v1.75.0` (2026-10-22)
-- **Last commit**: 2026-10-27
+- **Last commit**: 2026-10-29
 - **Assets in release**: 58
 
 ## Popularity
 
-- **Stars**: 11,508 · **Forks**: 372 · **Open issues**: 1,036 · **Contributors**: 96
+- **Stars**: 11,509 · **Forks**: 372 · **Open issues**: 1,036 · **Contributors**: 95
 
 ## Totals (cumulative)
 
-- **Releases**: 198 · **Merged PRs**: 2810 · **Open PRs**: 7 · **Closed issues**: 985 · **Open issues**: 51 · **Commits**: 2957
+- **Releases**: 198 · **Merged PRs**: 2812 · **Open PRs**: 4 · **Closed issues**: 985 · **Open issues**: 51 · **Commits**: 2959
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-29 | 2 | 32 | 7 | 3 | 2 | 35 |
-| last60d | 2026-08-30 | 3 | 62 | 7 | 6 | 2 | 60 |
-| 90d | 2026-07-31 | 3 | 77 | 7 | 9 | 2 | 77 |
-| last180d | 2026-05-02 | 6 | 130 | 7 | 20 | 3 | 129 |
-| 360d | 2025-11-03 | 22 | 376 | 7 | 50 | 13 | 372 |
-| last720d | 2024-11-08 | 42 | 754 | 7 | 141 | 27 | 760 |
+| 30d | 2026-09-30 | 2 | 33 | 4 | 3 | 2 | 37 |
+| last60d | 2026-08-31 | 3 | 63 | 4 | 6 | 2 | 62 |
+| 90d | 2026-08-01 | 3 | 79 | 4 | 9 | 2 | 79 |
+| last180d | 2026-05-03 | 6 | 132 | 4 | 20 | 3 | 131 |
+| 360d | 2025-11-04 | 22 | 376 | 4 | 50 | 13 | 374 |
+| last720d | 2024-11-09 | 42 | 756 | 4 | 141 | 27 | 761 |
 
 ## Release assets
 
@@ -130,7 +130,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **36** distros on [repology.org](https://repology.org/project/buf). **12** are ✅ on the latest upstream release, **22** are ⚠️ on an older version.
+Reported by **36** distros on [repology.org](https://repology.org/project/buf). **13** are ✅ on the latest upstream release, **21** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -149,4 +149,4 @@ Install metadata for buf lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261029.yml` · 2026-10-29T05:59:11Z._
+_Snapshot: `data/card/261030.yml` · 2026-10-30T06:03:51Z._
