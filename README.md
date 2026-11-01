@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 198 · **Merged PRs**: 2812 · **Open PRs**: 4 · **Closed issues**: 985 · **Open issues**: 51 · **Commits**: 2959
+- **Releases**: 198 · **Merged PRs**: 2812 · **Open PRs**: 7 · **Closed issues**: 985 · **Open issues**: 51 · **Commits**: 2959
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-01 | 2 | 32 | 4 | 3 | 2 | 37 |
-| last60d | 2026-09-01 | 3 | 61 | 4 | 6 | 2 | 62 |
-| 90d | 2026-08-02 | 3 | 79 | 4 | 9 | 2 | 79 |
-| last180d | 2026-05-04 | 6 | 131 | 4 | 20 | 3 | 131 |
-| 360d | 2025-11-05 | 22 | 373 | 4 | 50 | 13 | 374 |
-| last720d | 2024-11-10 | 42 | 756 | 4 | 141 | 27 | 761 |
+| 30d | 2026-10-02 | 2 | 31 | 7 | 2 | 2 | 37 |
+| last60d | 2026-09-02 | 3 | 61 | 7 | 6 | 2 | 62 |
+| 90d | 2026-08-03 | 3 | 78 | 7 | 9 | 2 | 79 |
+| last180d | 2026-05-05 | 6 | 131 | 7 | 20 | 3 | 131 |
+| 360d | 2025-11-06 | 22 | 372 | 7 | 50 | 13 | 374 |
+| last720d | 2024-11-11 | 42 | 755 | 7 | 141 | 27 | 761 |
 
 ## Release assets
 
@@ -130,13 +130,13 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **36** distros on [repology.org](https://repology.org/project/buf). **13** are ✅ on the latest upstream release, **21** are ⚠️ on an older version.
+Reported by **36** distros on [repology.org](https://repology.org/project/buf). **14** are ✅ on the latest upstream release, **20** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
 | Arch | `1.75.0` | ✅ latest |
 | Homebrew | `1.75.0` | ✅ latest |
-| Nix unstable | `1.73.0` | ⚠️ outdated |
+| Nix unstable | `1.75.0` | ✅ latest |
 | Void | `1.71.0` | ⚠️ outdated |
 | Alpine edge | `1.66.1` | ⚠️ outdated |
 
@@ -149,4 +149,4 @@ Install metadata for buf lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261031.yml` · 2026-10-31T05:52:47Z._
+_Snapshot: `data/card/261101.yml` · 2026-11-01T06:17:23Z._
