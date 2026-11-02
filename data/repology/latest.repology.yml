@@ -1,10 +1,113 @@
+- repo: artix
+  subrepo: world
+  srcname: buf
+  binname: buf
+  visiblename: buf
+  version: 1.75.0
+  origversion: 1.75.0-1
+  status: newest
+  summary: A tool for working with Protocol Buffers
+  licenses:
+    - Apache-2.0
+- repo: pkgsrc_2026_3
+  srcname: devel/buf
+  binname: buf
+  visiblename: devel/buf
+  version: 1.72.0
+  origversion: 1.72.0nb5
+  status: outdated
+  summary: CLI tool for working with Protocol Buffers
+  maintainers:
+    - pkgsrc-users@netbsd.org
+  categories:
+    - devel
+- repo: pkgsrc_current
+  srcname: devel/buf
+  binname: buf
+  visiblename: devel/buf
+  version: 1.75.0
+  origversion: null
+  status: newest
+  summary: CLI tool for working with Protocol Buffers
+  maintainers:
+    - pkgsrc-users@netbsd.org
+  categories:
+    - devel
+- repo: scoop
+  subrepo: main
+  binname: buf
+  visiblename: buf
+  version: 1.75.0
+  origversion: null
+  status: newest
+  licenses:
+    - Apache-2.0
+- repo: slackbuilds
+  srcname: development/buf
+  visiblename: development/buf
+  version: 1.75.0
+  origversion: null
+  status: newest
+  maintainers:
+    - fsleg@t-rg.ws
+  categories:
+    - development
+- repo: termux
+  srcname: buf
+  binname: buf
+  visiblename: buf
+  version: 1.75.0
+  origversion: null
+  status: newest
+  summary: A new way of working with Protocol Buffers
+  maintainers:
+    - termux@github
+- repo: freebsd
+  srcname: devel/buf
+  binname: buf
+  visiblename: devel/buf
+  version: 1.75.0
+  origversion: null
+  status: newest
+  summary: CLI tool for working with Protocol Buffers
+  maintainers:
+    - yuri@freebsd.org
+  categories:
+    - devel
+- repo: homebrew
+  srcname: buf
+  visiblename: buf
+  version: 1.75.0
+  origversion: null
+  status: newest
+  summary: New way of working with Protocol Buffers
+- repo: homebrew
+  srcname: buf
+  visiblename: buf
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: New way of working with Protocol Buffers
+- repo: void_x86_64
+  subrepo: x86_64
+  srcname: buf
+  binname: buf
+  visiblename: buf
+  version: 1.71.0
+  origversion: 1.71.0_2
+  status: outdated
+  summary: Protobuf language server
+  maintainers:
+    - bnyro@tutanota.com
+  licenses:
+    - Apache-2.0
 - repo: alpine_edge
   subrepo: testing
   srcname: buf
   binname: buf
   visiblename: buf
   version: 1.66.1
-  origversion: 1.66.1-r0
+  origversion: 1.66.1-r1
   status: outdated
   summary: CLI to work with Protocol Buffers
   maintainers:
@@ -17,7 +120,7 @@
   binname: buf-bash-completion
   visiblename: buf-bash-completion
   version: 1.66.1
-  origversion: 1.66.1-r0
+  origversion: 1.66.1-r1
   status: outdated
   summary: Bash completions for buf
   maintainers:
@@ -30,7 +133,7 @@
   binname: buf-fish-completion
   visiblename: buf-fish-completion
   version: 1.66.1
-  origversion: 1.66.1-r0
+  origversion: 1.66.1-r1
   status: outdated
   summary: Fish completions for buf
   maintainers:
@@ -43,24 +146,11 @@
   binname: buf-protoc-plugins
   visiblename: buf-protoc-plugins
   version: 1.66.1
-  origversion: 1.66.1-r0
+  origversion: 1.66.1-r1
   status: outdated
   summary: CLI to work with Protocol Buffers (protoc plugins)
   maintainers:
     - folliekazetani@protonmail.com
-  licenses:
-    - Apache-2.0
-- repo: nix_stable_24_11
-  srcname: buf
-  visiblename: buf
-  version: 1.47.2
-  origversion: null
-  status: outdated
-  summary: Create consistent Protobuf APIs that preserve compatibility and comply with design best-practices
-  maintainers:
-    - hello+nixpkgs@j-k.io
-    - lrewega@c32.ca
-    - wentworth@outlook.com
   licenses:
     - Apache-2.0
 - repo: alpine_edge
@@ -69,7 +159,7 @@
   binname: buf-zsh-completion
   visiblename: buf-zsh-completion
   version: 1.66.1
-  origversion: 1.66.1-r0
+  origversion: 1.66.1-r1
   status: outdated
   summary: Zsh completions for buf
   maintainers:
@@ -156,43 +246,6 @@
     - ozraru@aur
   licenses:
     - Apache-2.0
-- repo: artix
-  subrepo: world
-  srcname: buf
-  binname: buf
-  visiblename: buf
-  version: 1.75.0
-  origversion: 1.75.0-1
-  status: newest
-  summary: A tool for working with Protocol Buffers
-  licenses:
-    - Apache-2.0
-- repo: freebsd
-  srcname: devel/buf
-  binname: buf
-  visiblename: devel/buf
-  version: 1.75.0
-  origversion: null
-  status: newest
-  summary: CLI tool for working with Protocol Buffers
-  maintainers:
-    - yuri@freebsd.org
-  categories:
-    - devel
-- repo: homebrew
-  srcname: buf
-  visiblename: buf
-  version: 1.75.0
-  origversion: null
-  status: newest
-  summary: New way of working with Protocol Buffers
-- repo: homebrew
-  srcname: buf
-  visiblename: buf
-  version: HEAD
-  origversion: null
-  status: rolling
-  summary: New way of working with Protocol Buffers
 - repo: macports
   srcname: devel/buf
   binname: buf
@@ -212,23 +265,23 @@
   srcname: buf
   binname: buf
   visiblename: buf
-  version: 1.72.0
-  origversion: 1.72.0-1
+  version: 1.26.1
+  origversion: 1.26.1-1
   status: outdated
   summary: A tool for working with Protocol Buffers
   licenses:
-    - Apache-2.0
+    - Apache
 - repo: manjaro_testing
   subrepo: extra
   srcname: buf
   binname: buf
   visiblename: buf
-  version: 1.73.0
-  origversion: 1.73.0-1
+  version: 1.26.1
+  origversion: 1.26.1-1
   status: outdated
   summary: A tool for working with Protocol Buffers
   licenses:
-    - Apache-2.0
+    - Apache
 - repo: manjaro_unstable
   subrepo: extra
   srcname: buf
@@ -250,6 +303,19 @@
   maintainers:
     - hello+nixpkgs@j-k.io
     - lrewega@c32.ca
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_24_11
+  srcname: buf
+  visiblename: buf
+  version: 1.47.2
+  origversion: null
+  status: outdated
+  summary: Create consistent Protobuf APIs that preserve compatibility and comply with design best-practices
+  maintainers:
+    - hello+nixpkgs@j-k.io
+    - lrewega@c32.ca
+    - wentworth@outlook.com
   licenses:
     - Apache-2.0
 - repo: nix_stable_25_05
@@ -374,69 +440,3 @@
     - pkgsrc-users@netbsd.org
   categories:
     - devel
-- repo: pkgsrc_2026_3
-  srcname: devel/buf
-  binname: buf
-  visiblename: devel/buf
-  version: 1.72.0
-  origversion: 1.72.0nb5
-  status: outdated
-  summary: CLI tool for working with Protocol Buffers
-  maintainers:
-    - pkgsrc-users@netbsd.org
-  categories:
-    - devel
-- repo: pkgsrc_current
-  srcname: devel/buf
-  binname: buf
-  visiblename: devel/buf
-  version: 1.75.0
-  origversion: null
-  status: newest
-  summary: CLI tool for working with Protocol Buffers
-  maintainers:
-    - pkgsrc-users@netbsd.org
-  categories:
-    - devel
-- repo: scoop
-  subrepo: main
-  binname: buf
-  visiblename: buf
-  version: 1.75.0
-  origversion: null
-  status: newest
-  licenses:
-    - Apache-2.0
-- repo: slackbuilds
-  srcname: development/buf
-  visiblename: development/buf
-  version: 1.75.0
-  origversion: null
-  status: newest
-  maintainers:
-    - fsleg@t-rg.ws
-  categories:
-    - development
-- repo: termux
-  srcname: buf
-  binname: buf
-  visiblename: buf
-  version: 1.75.0
-  origversion: null
-  status: newest
-  summary: A new way of working with Protocol Buffers
-  maintainers:
-    - termux@github
-- repo: void_x86_64
-  subrepo: x86_64
-  srcname: buf
-  binname: buf
-  visiblename: buf
-  version: 1.71.0
-  origversion: 1.71.0_2
-  status: outdated
-  summary: Protobuf language server
-  maintainers:
-    - bnyro@tutanota.com
-  licenses:
-    - Apache-2.0
