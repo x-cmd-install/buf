@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 11,516 · **Forks**: 372 · **Open issues**: 1,036 · **Contributors**: 95
+- **Stars**: 11,518 · **Forks**: 372 · **Open issues**: 1,036 · **Contributors**: 95
 
 ## Totals (cumulative)
 
-- **Releases**: 198 · **Merged PRs**: 2816 · **Open PRs**: 6 · **Closed issues**: 986 · **Open issues**: 50 · **Commits**: 2963
+- **Releases**: 198 · **Merged PRs**: 2816 · **Open PRs**: 10 · **Closed issues**: 986 · **Open issues**: 50 · **Commits**: 2963
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-08 | 2 | 30 | 6 | 2 | 2 | 33 |
-| last60d | 2026-09-08 | 3 | 64 | 6 | 5 | 2 | 65 |
-| 90d | 2026-08-09 | 3 | 81 | 6 | 9 | 2 | 82 |
-| last180d | 2026-05-11 | 6 | 127 | 6 | 20 | 2 | 131 |
-| 360d | 2025-11-12 | 22 | 367 | 6 | 48 | 12 | 369 |
-| last720d | 2024-11-17 | 39 | 750 | 6 | 141 | 26 | 754 |
+| 30d | 2026-10-09 | 2 | 30 | 10 | 2 | 1 | 33 |
+| last60d | 2026-09-09 | 3 | 62 | 10 | 5 | 2 | 65 |
+| 90d | 2026-08-10 | 3 | 80 | 10 | 9 | 2 | 82 |
+| last180d | 2026-05-12 | 6 | 126 | 10 | 20 | 2 | 131 |
+| 360d | 2025-11-13 | 22 | 366 | 10 | 48 | 11 | 369 |
+| last720d | 2024-11-18 | 39 | 748 | 10 | 141 | 26 | 754 |
 
 ## Release assets
 
@@ -149,4 +149,4 @@ Install metadata for buf lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261107.yml` · 2026-11-07T06:12:23Z._
+_Snapshot: `data/card/261108.yml` · 2026-11-08T06:14:18Z._
