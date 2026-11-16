@@ -131,16 +131,6 @@
     - buf@aur
   licenses:
     - Apache
-- repo: termux
-  srcname: buf
-  binname: buf
-  visiblename: buf
-  version: 1.75.0
-  origversion: null
-  status: newest
-  summary: A new way of working with Protocol Buffers
-  maintainers:
-    - termux@github
 - repo: aur
   srcname: buf-git
   binname: buf-git
@@ -389,7 +379,7 @@
   binname: buf
   visiblename: devel/buf
   version: 1.72.0
-  origversion: 1.72.0nb5
+  origversion: 1.72.0nb6
   status: outdated
   summary: CLI tool for working with Protocol Buffers
   maintainers:
@@ -427,6 +417,16 @@
     - fsleg@t-rg.ws
   categories:
     - development
+- repo: termux
+  srcname: buf
+  binname: buf
+  visiblename: buf
+  version: 1.75.0
+  origversion: null
+  status: newest
+  summary: A new way of working with Protocol Buffers
+  maintainers:
+    - termux@github
 - repo: void_x86_64
   subrepo: x86_64
   srcname: buf
