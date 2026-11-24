@@ -1,28 +1,17 @@
-- repo: aur
-  srcname: buf-bin
-  binname: buf-bin
-  visiblename: buf-bin
+- repo: homebrew
+  srcname: buf
+  visiblename: buf
   version: 1.75.0
-  origversion: 1.75.0-1
+  origversion: null
   status: newest
-  summary: A new way of working with Protocol Buffers.
-  maintainers:
-    - doriable@aur
-    - buf@aur
-  licenses:
-    - Apache
-- repo: aur
-  srcname: buf-git
-  binname: buf-git
-  visiblename: buf-git
-  version: 1.9.0.r1491.g5401b58ca
-  origversion: 1.9.0.r1491.g5401b58ca-1
+  summary: New way of working with Protocol Buffers
+- repo: homebrew
+  srcname: buf
+  visiblename: buf
+  version: HEAD
+  origversion: null
   status: rolling
-  summary: A tool for working with Protocol Buffers
-  maintainers:
-    - ozraru@aur
-  licenses:
-    - Apache-2.0
+  summary: New way of working with Protocol Buffers
 - repo: alpine_edge
   subrepo: testing
   srcname: buf
@@ -36,6 +25,18 @@
     - folliekazetani@protonmail.com
   licenses:
     - Apache-2.0
+- repo: freebsd
+  srcname: devel/buf
+  binname: buf
+  visiblename: devel/buf
+  version: 1.75.0
+  origversion: 1.75.0_1
+  status: newest
+  summary: CLI tool for working with Protocol Buffers
+  maintainers:
+    - yuri@freebsd.org
+  categories:
+    - devel
 - repo: alpine_edge
   subrepo: testing
   srcname: buf
@@ -143,6 +144,31 @@
   summary: A tool for working with Protocol Buffers
   licenses:
     - Apache-2.0
+- repo: aur
+  srcname: buf-bin
+  binname: buf-bin
+  visiblename: buf-bin
+  version: 1.75.0
+  origversion: 1.75.0-1
+  status: newest
+  summary: A new way of working with Protocol Buffers.
+  maintainers:
+    - doriable@aur
+    - buf@aur
+  licenses:
+    - Apache
+- repo: aur
+  srcname: buf-git
+  binname: buf-git
+  visiblename: buf-git
+  version: 1.9.0.r1491.g5401b58ca
+  origversion: 1.9.0.r1491.g5401b58ca-1
+  status: rolling
+  summary: A tool for working with Protocol Buffers
+  maintainers:
+    - ozraru@aur
+  licenses:
+    - Apache-2.0
 - repo: artix
   subrepo: world
   srcname: buf
@@ -154,32 +180,6 @@
   summary: A tool for working with Protocol Buffers
   licenses:
     - Apache-2.0
-- repo: freebsd
-  srcname: devel/buf
-  binname: buf
-  visiblename: devel/buf
-  version: 1.75.0
-  origversion: 1.75.0_1
-  status: newest
-  summary: CLI tool for working with Protocol Buffers
-  maintainers:
-    - yuri@freebsd.org
-  categories:
-    - devel
-- repo: homebrew
-  srcname: buf
-  visiblename: buf
-  version: 1.75.0
-  origversion: null
-  status: newest
-  summary: New way of working with Protocol Buffers
-- repo: homebrew
-  srcname: buf
-  visiblename: buf
-  version: HEAD
-  origversion: null
-  status: rolling
-  summary: New way of working with Protocol Buffers
 - repo: macports
   srcname: devel/buf
   binname: buf
@@ -199,9 +199,9 @@
   srcname: buf
   binname: buf
   visiblename: buf
-  version: 1.73.0
-  origversion: 1.73.0-1
-  status: outdated
+  version: 1.75.0
+  origversion: 1.75.0-1
+  status: newest
   summary: A tool for working with Protocol Buffers
   licenses:
     - Apache-2.0
