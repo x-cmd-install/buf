@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 11,537 · **Forks**: 375 · **Open issues**: 1,042 · **Contributors**: 95
+- **Stars**: 11,538 · **Forks**: 375 · **Open issues**: 1,042 · **Contributors**: 95
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 0 | 16 | 5 | 2 | 4 | 17 |
-| last60d | 2026-09-25 | 2 | 55 | 6 | 5 | 6 | 54 |
-| 90d | 2026-08-26 | 3 | 82 | 6 | 9 | 6 | 82 |
-| last180d | 2026-05-28 | 5 | 125 | 6 | 22 | 6 | 125 |
-| 360d | 2025-11-29 | 20 | 365 | 6 | 45 | 14 | 365 |
-| last720d | 2024-12-04 | 39 | 747 | 6 | 132 | 30 | 750 |
+| 30d | 2026-10-26 | 0 | 16 | 5 | 2 | 4 | 17 |
+| last60d | 2026-09-26 | 2 | 55 | 6 | 5 | 6 | 54 |
+| 90d | 2026-08-27 | 3 | 82 | 6 | 8 | 6 | 82 |
+| last180d | 2026-05-29 | 5 | 125 | 6 | 22 | 6 | 125 |
+| 360d | 2025-11-30 | 20 | 365 | 6 | 45 | 14 | 365 |
+| last720d | 2024-12-05 | 39 | 746 | 6 | 132 | 30 | 750 |
 
 ## Release assets
 
@@ -128,18 +128,6 @@ Lowest-scoring checks:
 | [sha256.txt](https://github.com/bufbuild/buf/releases/download/v1.75.0/sha256.txt) | 5.2 KiB | `other` |
 | [sha256.txt.minisig](https://github.com/bufbuild/buf/releases/download/v1.75.0/sha256.txt.minisig) | 302 B | `other` |
 
-## Distribution status
-
-Reported by **36** distros on [repology.org](https://repology.org/project/buf). **16** are ✅ on the latest upstream release, **18** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Arch | `1.75.0` | ✅ latest |
-| Homebrew | `1.75.0` | ✅ latest |
-| Nix unstable | `1.75.0` | ✅ latest |
-| Void | `1.71.0` | ⚠️ outdated |
-| Alpine edge | `1.66.1` | ⚠️ outdated |
-
 ## Improve this data
 
 Install metadata for buf lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `buf` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -149,4 +137,4 @@ Install metadata for buf lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T10:10:29Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T09:36:10Z._
